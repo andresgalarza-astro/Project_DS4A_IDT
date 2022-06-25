@@ -5,5 +5,5 @@ All of this while we are attending lectures and having jobs.
 
 ## What is the purpose of this project?
 
-This project was proposed by the **[Instituto Distrital de Turismo Oficina - Asesora Observatorio
+This project was proposed by the **[Instituto Distrital de Turismo - Oficina Asesora Observatorio
 Distrital de Turismo](https://www.idt.gov.co/)** of Bogotá.
