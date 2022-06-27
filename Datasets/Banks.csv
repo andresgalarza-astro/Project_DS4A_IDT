@@ -1,0 +1,914 @@
+index,bank_key,bank_name,bank_address,bank_latitude,bank_longitude
+0,bancamia,Bancamía Primera de Mayo,Transversal 78H # 44A-05 Sur,4.61479571,-74.16387921
+1,bancamia,Bancamía Molinos,Calle 50A # 7 - 21 Sur,4.55672432,-74.12108602
+2,bancamia,Bancamia Calle 13,Calle 13 # 13-77,4.71634,-74.212659
+3,bancamia,Bancamia Calle 17,Calle 17 # 100-16,4.67304221,-74.14602999
+4,bancamia,Bancamía - Engativá,Carrera 113B # 63I-39,4.70902078,-74.13967215
+5,bancamia,Bancamía Yomasa,Carrera 1 # 73D-83 Sur,4.51631028,-74.11745605
+6,bancamia,Bancamía La Victoria,Calle 39 # 5-08 Sur,4.56100079,-74.10199153
+7,bancamia,Bancamía Patio Bonito,Carrera 86  # 36-16 Sur,4.63630688,-74.16320794
+8,bancamia,Bancamia-La libertad,Carrera 88C # 56F-36 Sur,4.62747027,-74.18767138
+9,bancamia,Bancamía Tejar,Calle 27 Sur # 52A-09,4.60613885,-74.12677994
+10,bancamia,Bancamía Santa Helenita,Calle 72 # 77A-56,4.69131296,-74.10007786
+11,bancamia,Bancamía Caracas,Avenida Caracas # 74 - 51,4.66220219,-74.06158541
+12,bancamia,Bancamía Perdomo,Calle 63 # 70B-58 Sur,4.58940152,-74.16190688
+13,bancamia,Bancamía Venecia,Transversal 44 # 50B - 14 Sur,4.58970362,-74.13835494
+14,bancamia,Bancamía Principal,Carrera 9 # 66-25,4.65122296,-74.06012071
+15,bancamia,Bancamia Carrera 88C,Carrera 88C # 56F-36 Sur,4.627428244,-74.18767757
+16,bancamia,Bancamía Suba Rincón,Carrera 93 # 129C-61,4.72620962,-74.09058436
+17,bancamia,Bancamía Bosa Piamonte,Transversal 78L # 69C-02 Sur,4.60273858,-74.19099048
+18,bancamia,Bancamía Suba Villamaría,Calle 139 # 112B-27,4.7433852,-74.10356728
+19,bancamia,Bancamía Centro Suba,Calle 145 # 91-19,4.737745734305473,-74.08512890338898
+20,bancamia,Bancamía San Fernando,Calle 68 # 60-08,4.67157212,-74.08176165
+21,bancamia,Bancamía Galán,Carrera 56 # 4A-39,4.62117411,-74.11837949
+22,bancamia,Bancamía Kennedy,Calle 36 Sur # 78A-28,4.6224882,-74.14989364
+23,bancamia,Bancamía Centro,Calle 12B # 8-43,4.60059388,-74.07535296
+24,bancamia,Bancamía San Francisco,Carrera 19D # 61B-40 Sur,4.56194372,-74.14248169
+25,bancamia,Defensor Del Consumidor Financiero Del Banco BancamÍa,Avenida 19 # 114-09,4.6969854429,-74.0503876147
+26,bancamia,Bancamía Restrepo,Avenida 1 de Mayo # 16-54 Sur,4.57061679,-74.08278413
+27,bancamia,bancamia,Calle 16 # 6-66,4.602388,-74.07253
+28,bancamia,Bancamía Barrancas,Avenida 7 # 155 - 41,4.73043098,-74.02410265
+29,bancamia,Bancamía Toberín,Calle 166 # 19B - 70,4.74646777,-74.04312322
+30,bancamia,Bancamía,Carrera 4 # 15-34 Sur,4.5749233,-74.08659524
+31,bancamia,Bancamía Quirigua,Calle 80 # 82A–10,4.70121279,-74.0983947
+32,banco-av-villas,Banco AV Villas Pasadena,Carrera 53 # 102A-01,4.69015666,-74.0626492
+33,banco-av-villas,Banco AV Villas Calle 5,Calle 5 # 3-13,4.707217,-74.229314
+34,banco-av-villas,Banco AV Villas Diver Plaza,Transversal 96 # 70A-85,4.69780169,-74.11629209
+35,banco-av-villas,Banco AV Villas OCI Suba Rincón,Calle 132 # 91-12,4.73078791,-74.08716468
+36,banco-av-villas,Banco AV Villas Tintal Plaza,Carrera 86 # 6-37,4.64109126,-74.155941
+37,banco-av-villas,Banco AV Villas Zona Franca,Carrera 106 # 15A-25 Interior 141 Local 102,4.67171051,-74.15536607
+38,banco-av-villas,Banco AV Villas Calle 68,Calle 68 # 65-05,4.67456747,-74.08378892
+39,banco-av-villas,Banco AV Villas Centro de Negocios Empresariales Toberín,Carrera 20 # 166-44,4.74698167,-74.04351686
+40,banco-av-villas,Banco AV Villas Chapinero,Calle 57 # 8B-05,4.64355509,-74.06329493
+41,banco-av-villas,Banco AV Villas Ilarco,Calle 145 # 115-58,4.69854901,-74.06938513
+42,banco-av-villas,Banco AV Villas OCI Villa del Prado,Calle 174A # 53A-05,4.75619956,-74.05209601
+43,banco-av-villas,Banco AV Villas Universidad EAN,Carrera 11 # 78-47 Universidad EAN Sede El Nogal,4.66297592,-74.0548716
+44,banco-av-villas,Banco AV Villas Toberín,Calle 166 # 21-52,4.74683877,-74.04472322
+45,banco-av-villas,Banco AV Villas Parque Nacional,Carrera 13 # 38-26,4.626548906674851,-74.06718492507935
+46,banco-av-villas,Banco AV Villas Avenida de las Américas,Avendia Américas # 62-06,4.62874779,-74.11684469
+47,banco-av-villas,Banco AV Villas Calle 100,Calle 100 # 11A-36,4.68284285,-74.04435878
+48,banco-av-villas,Banco AV Villas Centro de Negocios Empresariales Calle 80,Calle 80 # 69-70,4.68734763,-74.08148028
+49,banco-av-villas,Banco AV Villas Centro Mayor,Calle 38A Sur # 34D-50,4.5921939943468875,-74.12419259548187
+50,banco-av-villas,Banco AV Villas Ferias,Calle 72 # 68H-03,4.68060467,-74.08836852
+51,banco-av-villas,Banco AV Villas Margaritas,Avenida 19 # 151-10,4.73294772,-74.04455175
+52,banco-av-villas,Banco AV Villas San Andresito,Calle 9 # 39-06,4.61648353,-74.10350047
+53,banco-av-villas,Banco AV Villas Santa Helenita,Calle 72 # 75-27,4.68991236,-74.09832177
+54,banco-av-villas,Banco AV Villas Siete de Agosto,Carrera 24 # 65-01,4.65660605,-74.07112555
+55,banco-av-villas,Banco AV Villas Centro Internacional,Carrera 10 # 27-43,4.61483628,-74.06942243
+56,banco-av-villas,Banco AV Villas Titán Plaza,Carrera 72 # 80-93,4.695034515224205,-74.08670604228973
+57,banco-av-villas,Banco AV Villas Chapinorte,Carrera 13 # 61-52,4.6483533862603945,-74.06356930732727
+58,banco-av-villas,Banco AV Villas Normandía,Calle 52 Bis # 71C-04,4.66997391,-74.1069346
+59,banco-av-villas,Banco AV Villas 140,Carrera 19 # 140-20,4.72345352,-74.04621128
+60,banco-av-villas,Banco AV Villas Santa Bárbara,Avenida 15 # 118-20,4.69759737,-74.0430404
+61,banco-av-villas,Banco AV Villas Quirigua,Transversal 94 # 82A-17,4.70866111486083,-74.1043866641984
+62,banco-av-villas,Banco AV Villas San Cristóbal Norte,Calle 163A # 8G-08,4.740168428,-74.03004984
+63,banco-av-villas,Banco AV Villas Centro Comercial Viva Fontibón,Avenida Centenario # 106-104,4.67682004,-74.14907471
+64,banco-av-villas,Banco AV Villas Centro de Pagos Cordoba,Carrera 10 # 18-08,4.6062204,-74.076547
+65,banco-av-villas,Banco AV Villas Restrepo,Carrera 20 # 15-41,4.587477750874158,-74.10075545310974
+66,banco-av-villas,Banco AV Villas Avenida Colón,Calle 13 # 45-37,4.624174861928635,-74.10357713699341
+67,banco-av-villas,Banco AV Villas Carrera 10,Carrera 10 # 14-60,4.602599564050944,-74.07609522342682
+68,banco-av-villas,Banco Av Villas Cajica,Carrera 6 # 1-89,4.586348,-74.080822
+69,banco-av-villas,Banco AV Villas Mercurio,Carrera 7 # 32-35,4.5876449,-74.2029898
+70,banco-av-villas,Banco AV Villas Corabastos,Avenida Carrera 80 # 2-51,4.6306874251016525,-74.15608406066895
+71,banco-av-villas,Banco AV Villas Bosa,Calle 65 Sur # 78L-81,4.60091075,-74.18176247
+72,banco-av-villas,Banco AV Villas OCI Puente Largo,Transversal 60 # 104-94,4.69246965,-74.06643206
+73,banco-av-villas,Banco AV Villas Carrera 7 Con 12C,Carrera 7 # 12C-08,4.60085278,-74.07369417
+74,banco-av-villas,Banco AV Villas Country,Carrera 15 # 85-98,4.6705537,-74.05512429
+75,banco-av-villas,Banco AV Villas Marly,Carrera 13 # 49-24,4.63633984,-74.06562891
+76,banco-av-villas,Banco AV Villas Niza,Avenida Suba # 127-23,4.71137832228122,-74.07302141189575
+77,banco-av-villas,Amamos Electronic International,Avenida 15 # 112-63,4.695096,-74.043586
+78,banco-av-villas,Banco AV Villas Minuto de Dios,Calle 80 # 74B-08,4.69722791,-74.09208865
+79,banco-av-villas,Banco AV Villas Plaza Imperial,Avenida 104 # 148-07,4.749827789405402,-74.09540176391602
+80,banco-av-villas,Banco AV Villas Banca Empresarial,Carrera 13 # 27-47,4.61533025,-74.07028877
+81,banco-av-villas,Banco AV Villas OCI Bosa Estación,Carrera 77G # 60-45 Sur,4.59715137,-74.17877747
+82,banco-av-villas,Banco AV Villas Ciudad Tunal,Calle 47B Sur # 24B-33,4.578280451806915,-74.13027048110962
+83,banco-av-villas,Banco AV Villas OCI Jumbo Bosa,Carrera 92 # 60-90 Sur,4.63089664,-74.19369764
+84,banco-av-villas,Banco AV Villas Córdoba,Carrera 10 # 18-24,4.606080530045712,-74.07397627830505
+85,banco-av-villas,Banco AV Villas Ricaurte,Carrera 28 # 10-19,4.60917099,-74.09330318
+86,banco-av-villas,Banco AV Villas Centro Comercial Plaza de las Américas,Transversal 71D # 6-94 Sur,4.623084,-74.13709338
+87,banco-av-villas,Banco AV Villas OCI Prado Veraniego,Carrera 51A # 134A-58,4.72036334,-74.05680955
+88,banco-av-villas,Banco AV Villas Zona Industrial,Avenida 68 # 17A-55,4.64091373,-74.11492773
+89,banco-av-villas,Banco AV Villas Galerías,Calle 53 # 23-35,4.6414880955208195,-74.07382607460022
+90,banco-av-villas,Albrón-EX Electromecanica,Calle 7 # 31-52,4.60868304,-74.09810603
+91,banco-av-villas,Banco AV Villas Avenida 19,Carrera 7 # 19-36,4.605556514748467,-74.07137989997864
+92,banco-av-villas,Banco AV Villas La Castellana,Calle 95 # 49-03,4.6839833825023485,-74.06149864196777
+93,banco-av-villas,Banco AV Villas 20 de Julio,Carrera 6 # 22C-16 Sur,4.571312884318668,-74.09276247024536
+94,banco-av-villas,Banco AV Villas Avenida 82,Calle 82 # 10-69,4.66618412,-74.05144017
+95,banco-av-villas,Banco AV Villas Carrera 13 Centro,Calle 16 # 12-84,4.60515758,-74.07663239
+96,banco-av-villas,Banco AV Villas Ciudad Montes,Calle 8 Sur # 35-43,4.60123424,-74.1099892
+97,banco-av-villas,Banco Av Villas el Polo,Carrera 24 # 83-24,4.67144796,-74.06306879
+98,banco-av-villas,Banco Av Villas Oficina Portal 80,Transversal 100A # 80A-20,4.71007917206986,-74.11040604114532
+99,banco-av-villas,Banco Av Villas Fontibón,Carrera 100 # 19-51,4.67473404,-74.14368476
+100,banco-av-villas,Banco AV Villas Pablo VI,Carrera 53 # 57-08 Local 1,4.64929541,-74.08697949
+101,banco-av-villas,Banco AV Villas Porciúncula,Calle 72 # 10-60,4.65663064,-74.05809983
+102,banco-av-villas,Banco AV Villas Soledad,Avenida 24 # 40-73,4.62580879516253,-74.0971672939085
+103,banco-av-villas,Banco AV Villas OCI Subazar 2,Carrera 91 # 141-05 Local 102,4.73879396,-74.08473924
+104,banco-av-villas,Banco AV Villas Venecia,Diagonal 48 # 50-80 Sur,4.59176328,-74.13763175
+105,banco-av-villas,Banco AV Villas Villa Luz,Carrera 77A # 64H-04,4.68292379148848,-74.1061389895716
+106,banco-av-villas,Banco AV Villas OCI Castilla,Carrera 78 # 8-90,4.63840039,-74.14157328
+107,banco-av-villas,Banco AV Villas OCI Centro Comercial Ciudad Tunal,Calle 47B Sur # 24B-33,4.578280451806915,-74.13027048110962
+108,banco-av-villas,Banco AV Villas Sotrandes,Carrera 113B # 63I-39,4.70902078,-74.13967215
+109,banco-av-villas,Banco AV Villas Unicentro,Avenida 15 # 124-30,4.7025087670258685,-74.04238522052765
+110,banco-av-villas,Banco AV Villas OCI Rosetta,Autopista Norte # 128B-41,4.71406424,-74.05306581
+111,banco-av-villas,Banco AV Villas Ciudad Salitre,Diagonal 22B # 68C-25,4.65222075,-74.11102065
+112,banco-av-villas,Banco AV Villas La Alhambra,Calle 116 # 53A-9,4.70090701,-74.06313937
+113,banco-av-villas,Banco AV Villas OCI Plaza de las Américas,Transversal 71D # 06-94 Sur,4.619442789548298,-74.13515746593475
+114,banco-av-villas,Banco AV Villas San Patricio,Diagonal 109 # 18B-10,4.69303465,-74.04753036
+115,banco-av-villas,Banco AV Villas Unicentro de Occidente,Carrera 111C # 86-05,4.723562415278765,-74.11441326141357
+116,banco-av-villas,Banco AV Villas OCI Ciprés Plaza,Carrera 50 # 21-41 Centro Comercial Ciprés Plaza Local 115,4.63372422,-74.10220729
+117,banco-av-villas,Banco AV Villas Santa Isabel,Carrera 27 # 1F-28,4.5984769233172615,-74.10024046897888
+118,banco-av-villas,Banco AV Villas Restrepo Carrera 18,Carrera 18 # 15-18 Sur,4.58634721,-74.09959177
+119,banco-av-villas,Banco Av. Villas Suba,Avenida Suba # 118-85,4.70392837,-74.07090626
+120,banco-av-villas,Banco AV Villas El Castillo,Carrera 7 # 73-17,4.656555289216419,-74.05464291572571
+121,banco-av-villas,Cajero ATH AV Villas Calle 163A Con 8G,Calle 163A # 8G-08,4.7403704,-74.03078663
+122,banco-av-villas,Banco AV Villas Autopista Calle 98,Transversal 23 # 97-72,4.68504981,-74.05640891
+123,banco-av-villas,Banco AV Villas Centro Comercial Trébolis Bosa Porvenir,Calle 50 Sur # 93D-98,4.63812,-74.1835712
+124,banco-av-villas,Banco AV Villas San Martín,Carrera 7 # 31-58,4.61779568,-74.06846295
+125,banco-av-villas,Banco AV Villas Usaquén,Carrera 7 # 119-04,4.695916673577078,-74.03167247772217
+126,banco-av-villas,Cajero ATH AV Villas Bosa Estación,Carrera 77G # 60-45 Sur,4.59715137,-74.17877747
+127,banco-av-villas,Banco AV Villas Britalia,Carrera 80 # 46-05 Sur,4.61974384,-74.1680731
+128,banco-av-villas,Banco AV Villas Cedritos,Carrera 11 # 140-03,4.71889449,-74.03517988
+129,banco-av-villas,Banco AV Villas Centro de Negocios Empresariales Paloquemao,Carrera 27 # 13-63,4.61246794,-74.08907305
+130,banco-av-villas,Banco AV Villas Avenida Quince,Avenida 15 # 106-24,4.69063602,-74.04569481
+131,banco-av-villas,Banco AV Villas Oficina Credito de Libranza,Calle 72 # 10-03 Local 1-07,4.65644007,-74.05782329
+132,banco-av-villas,Banco AV Villas Casur,Carrera 7 # 13-58,4.6002342,-74.07410517
+133,banco-av-villas,Banco AV Villas Centro de Negocios Empresariales Avenida Chile,Carrera 7 # 71-76,4.65424229,-74.05556217
+134,banco-av-villas,Banco AV Villas Centro Comercial Santafé,Calle 185 # 45-03,4.763315603470774,-74.04704689979553
+135,banco-av-villas,Banco AV Villas OCI Villas de Granada,Carrera 112A # 79B-39,4.71918921,-74.12008111
+136,banco-av-villas,Cajero ATH  AV Villas,Carrera 100 # 19-52,4.67473404,-74.14368476
+137,banco-av-villas,Banco Av Villas Avenida  La esperanza,Avenida  La esperanza # 40-21,4.63106826,-74.09307579
+138,banco-av-villas,Banco AV Villas La Calera,Avenida 2 # 6-44 La Calera,4.58874323,-74.07982058
+139,banco-av-villas,Banco AV Villas OCI Estación Calle 146,Avenida Carrera 45 # 149-57,4.73138946,-74.0501652
+140,banco-av-villas,Banco AV Villas Funza,Carrera 13 # 13-26,4.715971,-74.212268
+141,banco-av-villas,Banco AV Villas Chicó,Carrera 15 # 91-10,4.675268529594929,-74.05252933502197
+142,banco-av-villas,Banco AV Villas Estrada,Carrera 72 # 70F-03,4.6854342,-74.0929605
+143,banco-av-villas,Banco AV Villas OCI Centro de Alta Tecnología,Carrera 15 # 77-05,4.66385123,-74.05864933
+144,banco-av-villas,Banco AV Villas Kennedy Ley,Calle 35 Sur # 78A-37,4.62410471,-74.14836559
+145,banco-av-villas,Banco AV Villas Claret,Calle 44 # 26-10 Sur,4.58260406,-74.1267787
+146,banco-av-villas,Banco AV Villas Concord,Calle 64 # 5-86,4.648385466901322,-74.05904173851013
+147,banco-av-villas,Banco AV Villas OCI Autopista Sur Venecia,Carrera 54 # 45A-17 Sur,4.59491991,-74.14124681
+148,banco-av-villas,Banco AV Villas Principal Bogotá,Carrera 13 # 27-51,4.615197264966243,-74.07056450843811
+149,banco-av-villas,Banco AV Villas OCI Metrópolis,Calle 80 # 64-91,4.68196401,-74.07779072
+150,banco-av-villas,Banco AV Villas Modelia,Calle 24 # 81C-96,4.66879675,-74.12237788
+151,banco-av-villas,Banco AV Villas El Lago,Carrera 15 # 75-66,4.6621158470047455,-74.05936360359192
+152,banco-av-villas,Banco AV Villas Centro Comercial Altavista,Carrera 1 # 65D-58,4.5317282,-74.1190141
+153,banco-caja-social,Banco Caja Social BCSC Unicentro,Carrera 15 # 123-30,4.70253594,-74.04279262
+154,banco-caja-social,Banco Caja Social BCSC 20 de Julio,Carrera 6 # 25-32 Sur,4.57008813,-74.0938579
+155,banco-caja-social,Banco Caja Social BCSC Casablanca,Carrera 80 # 51A-15 Sur,4.61665788,-74.17187458
+156,banco-caja-social,Banco Caja Social BCSC Principal Bogotá,Carrera 7 # 31A-10,4.61751802,-74.068561
+157,banco-caja-social,Cajero Banco Caja Social,Carrera 10 # 16-62,4.60470194871,-74.0749401364
+158,banco-caja-social,Banco Caja Social,Avenida 1 de Mayo # 51D-29,4.60478201977,-74.124832962
+159,banco-caja-social,Banco Caja Social BCSC Cedritos,Avenida 19 # 148-60,4.73089741,-74.04502042
+160,banco-caja-social,Cajero Banco Caja Social Ferias,Avenida Calle 72 # 70-69,4.68460849594362,-74.0923404087958
+161,banco-caja-social,Banco Caja Social San Francisco,Calle 81 # 73A-81,4.69747296946446,-74.0907703732145
+162,banco-caja-social,Cajero Banco Caja Social Carrera 7,Carrera 7 # 16-31,4.60278678,-74.07280181
+163,banco-caja-social,Banco Caja Social,Avenida Carera 100 # 54-51,4.6885605,-74.0640486
+164,banco-caja-social,Banco Caja Social Transversal 73D,Transversal 73D # 39-16 Sur,4.61729061,-74.15109123
+165,banco-caja-social,Banco Caja Social Portal 80,Transversal 100A # 80A-20,4.71007917206986,-74.11040604114532
+166,banco-caja-social,Banco Caja Social Santafé,Calle 185 # 45-03,4.7634492507219885,-74.05019044876099
+167,banco-caja-social,Banco Caja Social BCSC Centro Andino,Carrera 11 # 82-71,4.666505448562926,-74.05320525169373
+168,banco-caja-social,Banco Caja Social BCSC Calle 51,Carrera 16 # 51-35,4.63888518,-74.0687157
+169,banco-caja-social,Banco Caja Social BCSC Prado Veraniego,Autopista Norte # 128B-41,4.71406424,-74.05306581
+170,banco-caja-social,Banco Caja Social BCSC Primavera,Calle 6 # 40-91,4.61592976,-74.10562559
+171,banco-caja-social,Banco Caja Social C.C. Ventura Terreros,Carrera 1 # 38-53,4.578729,-74.184307
+172,banco-caja-social,Banco Caja Social Multiplaza,Avenida Boyacá con Calle 13,4.6522719,-74.1257936
+173,banco-caja-social,Banco Caja Social - Soacha,Carrera 7 # 14-02,4.581905,-74.218106
+174,banco-caja-social,Banco Caja Social BCSC Calle 59,Calle 59 # 9-46,4.64526232,-74.06295623
+175,banco-caja-social,Banco Caja Social BCSC Kennedy,Calle 36 # 77-05 Sur,4.62174643,-74.14933127
+176,banco-caja-social,Banco Caja Social BCSC Soledad,Carrera 24 # 40-74,4.63079113,-74.07474803
+177,banco-caja-social,Banco Caja Social BCSC Corabastos,Carrera 80 # 2-51,4.63222892,-74.15414366
+178,banco-caja-social,Banco Caja Social BCSC Ricaurte,Carrera 27 # 12B-55,4.61147785,-74.08989752
+179,banco-caja-social,Banco Caja Social BCSC Quiroga,Calle 31B Sur # 23C-26,4.58224073,-74.11374084
+180,banco-caja-social,Banco Caja Social Carrera 9,Carrera 9 # 71-88,4.65543933,-74.05724695
+181,banco-caja-social,Banco Caja Social BCSC Calle 80,Calle 81 # 73A-81,4.69742031,-74.09066686
+182,banco-caja-social,Banco Caja Social BCSC Avenida Caracas,Calle 47 # 18B-13 Sur,4.5695007,-74.12556525
+183,banco-caja-social,Banco Caja Social BCSC Plaza de las Américas,Transversal 71D # 06-94 Sur,4.619442789548298,-74.13515746593475
+184,banco-caja-social,Banco Caja Social BCSC Tunjuelito,Calle 54 Sur # 14A-77,4.56259397,-74.12778088
+185,banco-caja-social,Banco Caja Social BCSC Calle 100,Calle 100 # 8A-65,4.68080033,-74.04050988
+186,banco-caja-social,Banco Caja Social BCSC Venecia,Diagonal 45 # 51-55 Sur,4.59428591,-74.13823276
+187,banco-caja-social,Banco Caja Social BCSC Carrera 10 con Calle 16,Carrera 10 # 16-52,4.60465963889783,-74.0750180318017
+188,banco-caja-social,Banco Caja Social BCSC Plaza Quirigua,Transversal 94 # 84-40,4.7096959,-74.10262675
+189,banco-caja-social,Banco Caja Social BCSC Centro Comercial Niza,Carrera 70D # 127-70 Centro Comercial Niza Local 73 Int. 8,4.71104707,-74.07388126
+190,banco-caja-social,Banco Caja Social BCSC Restrepo Valvanera,Carrera 18 # 17-01 Sur,4.58545839,-74.10074124
+191,banco-caja-social,Banco Caja Social BCSC Estrada,Calle 72 # 68G-80,4.68019507,-74.08799251
+192,banco-caja-social,Banco Caja Social Avenida 26,Calle 26 # 27-10,4.62344119,-74.07822737
+193,banco-caja-social,Banco Caja Social BCSC Carrera 10,Carrera 10 # 17-96,4.60557721,-74.07452667
+194,banco-caja-social,Banco de Bogotá Carrera 7 Con 13,Carrera 7 # 13-14,4.581754,-74.218943
+195,banco-caja-social,Banco Caja Social BCSC Avenida 1 de Mayo,Transversal 73D # 39A-90 Sur,4.61716032,-74.15185443
+196,banco-caja-social,Banco Caja Social BCSC Trinidad Galán 1,Carrera 56 # 5-26,4.62163454,-74.11779306
+197,banco-caja-social,Corresponsal Bancario Banco Caja Social,Calle 72 # 47B-05 Sur,4.57315902907,-74.1622612859
+198,banco-caja-social,Banco Caja Social BCSC Hayuelos,Calle 20 # 82-52 Centro Comercial Hayuelos Local 2-111/2-112,4.66273235,-74.13079139
+199,banco-caja-social,Banco Caja Social BCSC Comercial Iserra,Calle 100 # 54-51,4.68849951,-74.06413429
+200,banco-caja-social,Bancos Caja Social Puente Largo,Calle 106 # 43A-44,4.69347345,-74.06663695
+201,banco-caja-social,Banco Caja Social BCSC Modelia,Carrera 75 # 23F-47,4.66544087,-74.12064015
+202,banco-caja-social,Banco Caja Social,Carrera 40 # 22B-21,4.630670052,-74.09325623
+203,banco-caja-social,Banco Caja Social BCSC Tequendama,Carrera 7 # 26-20,4.61190943,-74.0696966
+204,banco-caja-social,Caja Social,Transversal 60 # 106-04,4.69331464,-74.0669386
+205,banco-caja-social,Banco Caja Social BCSC Restrepo,Carrera 17 # 16-02 Sur,4.58550365,-74.09948765
+206,banco-caja-social,Banco Caja Social BCSC Contador,Avenida 19 # 137-02,4.72142422,-74.04651097
+207,banco-caja-social,Banco Caja Social BCSC Alcázares,Calle 68 # 24-04,4.65911363,-74.06960997
+208,banco-caja-social,Banco Caja Social BCSC Toberín,Calle 166 # 41-78,4.74704089,-74.04567106
+209,banco-caja-social,Banco Caja Social Plaza Imperial,Avenida 104 # 148-07,4.75102529130926,-74.09443616867064
+210,banco-caja-social,Banco Caja Social Marly,Carrera 13 # 53-31,4.64042087,-74.06509077
+211,banco-caja-social,Banco Caja Social BCSC Pastranita,Carrera 80 # 48A-23 Sur,4.61831471,-74.16962589
+212,banco-caja-social,Banco Caja Social BCSC Quinta Paredes,Calle 22B # 42B-10,4.630639,-74.09329408
+213,banco-caja-social,Banco Caja Social Unisur,Carrera 3 # 29A-02,4.4695998,-74.12682269999999
+214,banco-caja-social,Banco Caja Social San Francisco,Carrera 19D # 64-08 Sur,4.56114085,-74.14512746
+215,banco-caja-social,Banco Caja Social BCSC Bosa,Calle 65 # 79C-05 Sur,4.60630854,-74.18437551
+216,banco-caja-social,Banco Caja Social BCSC Niza,Avenida Suba # 122-97,4.70763238,-74.0715777
+217,banco-caja-social,Banco Caja Social BCSC Quirigua,Transversal 94 # 80C-51,4.70748738,-74.10616965
+218,banco-caja-social,Banco Caja Social BCSC Santa Librada,Carrera 1 # 74C-36 Sur,4.51505465,-74.11631837
+219,banco-caja-social,Banco Caja Social BCSC Chicó,Carrera 15 # 90-20,4.6745041,-74.05299057
+220,banco-caja-social,Banco Caja Social BCSC Santa Barbara,Carrera 15 # 118-93,4.69798095,-74.04316254
+221,banco-caja-social,Banco Caja Social BCSC Villa Javier,Calle 11 Sur # 5A-38,4.57828045,-74.08598617
+222,banco-caja-social,Banco Caja Social BCSC Calle 53,Calle 53 # 27-16,4.64218792,-74.07598954
+223,banco-caja-social,Banco Caja Social Carrera 36 con 23A,Carrera 36 # 23A-63,4.62754625322083,-74.0909020784795
+224,banco-caja-social,Banco Caja Social BCSC Alamos,Transversal 93 # 64-60,4.68947729,-74.11749839
+225,banco-caja-social,Banco Caja Social BCSC Altavista,Carrera 1 # 65D-58,4.5317282,-74.1190141
+226,banco-caja-social,Banco Caja Social BCSC Paloquemao,Carrera 25 # 13-83,4.61140944,-74.08769612
+227,banco-caja-social,Banco Caja Social BCSC Tejar,Avenida 1 De Mayo # 48-23 Sur,4.61425192,-74.16617027
+228,banco-caja-social,Banco Caja Social BCSC Galerías,Carrera 24 # 52-18,4.64082899,-74.07407602
+229,banco-caja-social,Banco Caja Social BCSC Fontibón,Carrera 99 # 17-25,4.67231466,-74.14521876
+230,banco-caja-social,Cajero Banco Caja Social Funza,Carrera 9 # 17A- 93,4.734158,-74.26519
+231,banco-caja-social,Banco Caja Social BCSC Chapinero,Calle 59 # 10-68,4.64571192,-74.06367112
+232,banco-caja-social,Banco Caja Social BCSC Can,Calle 44 # 59-44,4.6489516,-74.09443151
+233,banco-caja-social,Banco Caja Social BCSC Tabora,Calle 72 # 76-08,4.69041879,-74.09897066
+234,banco-caja-social,Banco Caja Social BCSC Metropolis,Avenida Carrera 68 # 75A-50 Local 101,4.68038455,-74.08312849
+235,banco-caja-social,Banco Caja Social BCSC Antiguo Country,Carrera 15 # 79-74,4.66569581,-74.05744384
+236,banco-caja-social,Banco Caja Social BCSC Santa Helenita,Avenida Calle 72 # 78B-40 46,4.69268351,-74.10175789
+237,banco-caja-social,Banco Caja Social BCSC Zona Industrial,Avenida Calle 13 # 62-64,4.63384874,-74.11355908
+238,banco-caja-social,Banco Caja Social BCSC Av. Chile,Calle 72 # 10-83,4.65670292,-74.05820472
+239,banco-caja-social,Banco Caja Social BCSC Quinta Camacho,Avenida Chile # 8-97,4.65573195,-74.05679444
+240,banco-caja-social,Banco Caja Social BCSC Santa Isabel 1,Calle 1C # 26A-10,4.59801861,-74.09986975
+241,banco-caja-social,Banco Caja Social BCSC Ingles,Carrera 27 # 41-14 Sur,4.58394555,-74.12414104
+242,banco-caja-social,Banco Caja Social BCSC Avenida 19,Calle 19 # 4-80,4.60395929,-74.06943628
+243,banco-caja-social,Banco Caja Social BCSC Trinidad Galán Calle 3A,Carrera 56 # 2B-68,4.61880184,-74.12026344
+244,banco-caja-social,Banco Caja Social Cedropoint,Calle 140 # 10A-48,4.718599941,-74.03451049
+245,banco-caja-social,Banco Caja Social BCSC Nogal,Carrera 7 # 77-83,4.65971097,-74.05200201
+246,banco-caja-social,Banco Caja Social,Carrera 1 # 74C-30 Sur,4.51498749459,-74.116240154
+247,banco-caja-social,Cajeros Banco Caja Social,Carrera 3 # 15 A - 57,4.712212,-74.221495
+248,banco-caja-social,Banco Caja Social BCSC Bosa Centro,Calle 65 # 80-04 Sur,4.60675632,-74.18441805
+249,banco-caja-social,Banco Caja Social C.C. Ventura Terreros,Carrera 1 # 38-54,4.589547127,-74.19699311
+250,banco-caja-social,Banco Caja Social BCSC Iserra 100,Transversal 55 # 98A-66 Centro Comercial Iserra 100 Local 110/111,4.68758208,-74.06447451
+251,banco-caja-social,Banco Caja Social BCSC Teleport,Calle 113 # 7-45,4.69163411,-74.03440979
+252,banco-caja-social,Banco Caja Social BCSC Centro Suba,Calle 145 # 91-19,4.737745734305473,-74.08512890338898
+253,banco-caja-social,Banco Caja Social BCSC Toberín Parque Industrial,Carrera 40 # 166-02,4.74676322,-74.04441796
+254,banco-caja-social,Banco Caja Social BCSC Avenida El Dorado,Avenida El Dorado # 69A-51,4.65864618,-74.10743594
+255,banco-caja-social,Banco Caja Social BCSC La Gaitana,Calle 139 # 111B-12,4.7433158,-74.10295316
+256,banco-caja-social,Banco Caja Social BCSC Calle 72,Calle 72A # 86-69 Local 6,4.69679626,-74.10585616
+257,banco-caja-social,Banco Caja Social BCSC Prado 129,Calle 129 # 47-33,4.71573972,-74.05533198
+258,banco-caja-social,Banco Caja Social BCSC Terminal de Transporte,Calle 33B # 69-59 Local 3-244,4.65619457,-74.11481738
+259,banco-caja-social,Banco Caja Social BCSC Siete de Agosto,Carrera 24 # 63D-52,4.65500591,-74.07166784
+260,banco-caja-social,Banco Caja Social BCSC Patio Bonito,Avenida Ciudad de Cali # 42B-51 Sur Local 102,4.62973941,-74.16899872
+261,banco-caja-social,Banco Caja Social BCSC Portal de la 80,Transversal 100A # 80A-20,4.71007917206986,-74.11040604114532
+262,banco-caja-social,Banco Caja Social BCSC Santa Isabel 2,Carrera 27 # 2-09 Sur,4.5958881,-74.10208578
+263,banco-caja-social,Banco Caja Social Funza,Carrera 13 # 16-85,4.717032,-74.209565
+264,banco-corpbanca,Cajero Corpbanca Universidad Javeriana,Carrera 7 # 40B-82,4.62789541,-74.0651968
+265,banco-corpbanca,Cajero Corpbanca Paloquemao,Calle 13 # 31-04,4.61519621,-74.09263662
+266,banco-corpbanca,Corpbanca Bulevar Niza,Avenida Suba # 127D-39,4.71324154,-74.07277342
+267,banco-corpbanca,Banco CorpBanca,Carrera 13 # 38-33,4.62725703,-74.06730041
+268,banco-corpbanca,Cajero Corpbanca - Barrio Rosales,Carrera 7 # 74-42,4.65703721,-74.05403295
+269,banco-corpbanca,Banco Corpbanca - San Martin,Carrera 10 # 28-49,4.615534558,-74.06932818
+270,banco-corpbanca,Cajero Corpbanca C.C. EL RETIRO,Calle 82 # 11-75,4.665694,-74.0544181
+271,banco-corpbanca,Cajero Corpbanca Universidad del Rosario,Calle 14 # 6-25,4.60029595,-74.07298859
+272,banco-corpbanca,Banco Corpbanca - Paloquemao,Carrera 25 # 15-36,4.61214405,-74.0869774
+273,banco-corpbanca,Banco Corpbanca Cedritos,Calle 140 # 17-34,4.72249621,-74.04385017
+274,banco-corpbanca,Banco CorpBanca Carrera 11 Con 94,Carrera 11 # 94-27,4.67729488,-74.04617591
+275,banco-corpbanca,Banco Corpbanca Chico,Carrera 15  # 95-74,4.68120113,-74.0495785
+276,banco-corpbanca,Cajero CorpBanca Chapinero,Calle 57 # 13-33,4.64381407,-74.06467513
+277,banco-corpbanca,Banco Corpbanca Calle 100,Calle 100 # 7-25,4.68008435,-74.03910731
+278,banco-corpbanca,Cajero Corpbanca Puente Aranda,Calle 13 # 61-75,4.6351152,-74.11524382
+279,banco-corpbanca,Banco Corpbanca Colombia S.A,Carrera 69 # 98A-11,4.691130195,-74.07506141
+280,banco-corpbanca,Cajero Corpbanca Parque Nacional,Carrera 13 # 36-80,4.62464187,-74.06763186
+281,banco-corpbanca,Banco Corpbanca Puente Aranda,Calle 13 # 65-71,4.635655215,-74.11648514
+282,banco-corpbanca,Banco Corpbanca - Pepe Sierra,Calle 116 # 18-82,4.69817703,-74.04797856
+283,banco-corpbanca,Corpbanca Investment Valores,Carrera 7 # 99-21,4.6791581,-74.03884511
+284,banco-corpbanca,Banco Corpbanca Calle 53,Calle 53 # 13-33,4.64009214,-74.06529154
+285,banco-corpbanca,Banco CorpBanca Colombia S.A,Calle 12 # 7-46,4.59937458,-74.0750238
+286,banco-corpbanca,Banco Corpbanca Parque Santander,Carrera 7 # 16-62,4.60284493,-74.07260243
+287,banco-de-bogota,Banco de Bogotá Avenida Caracas,Carrera 14 # 17-18,4.60700533,-74.07729488
+288,banco-de-bogota,Banco de Bogotá Calle 100,Transversal 17 # 97-61,4.68380521,-74.05021955
+289,banco-de-bogota,Banco de Bogotá Avenida Chile,Calle 72 # 13-25,4.65831706,-74.06054038
+290,banco-de-bogota,Banco de Bogotá La Esmeralda,Calle 44 # 58-42,4.6483522,-74.09404238
+291,banco-de-bogota,Banco de Bogotá Bulevar Niza,Carrera 58 # 125A-59,4.71170074,-74.07042868
+292,banco-de-bogota,Banco de Bogota,Carrera 19 # 114-09,4.6969854429,-74.0503876147
+293,banco-de-bogota,Banco de Bogotá Terminal de Transporte,Diagonal 23B # 69-55,4.65493497,-74.11433051
+294,banco-de-bogota,Banco de Bogotá,Carrera 19 # 40-45,4.630529461,-74.07251185
+295,banco-de-bogota,Banco de Bogotá Calima,Calle 19 # 28-80,4.61696803,-74.08669871
+296,banco-de-bogota,A la 80,Calle 80 # 27-42,4.67049340793,-74.0642770857
+297,banco-de-bogota,Banco de Bogotá Cota,Carrera 5 # 13A-06,4.811127580786711,-74.10075008869171
+298,banco-de-bogota,Banco de Bogotá Bosa,Transversal 78L # 69C-68 Sur,4.60262455,-74.1911646
+299,banco-de-bogota,Banco de Bogotá Parque Santander,Carrera 7 # 16-36,4.60273583,-74.07266472
+300,banco-de-bogota,Banco de Bogotá Las Granjas,Calle 13 # 68B-58,4.63939447,-74.12086841
+301,banco-de-bogota,Banco de Bogotá Carrera 2,Carrera 2 # 2-02,4.703843,-74.230864
+302,banco-de-bogota,Banco de Bogotá,Calle 38 # 86A-18 Sur,4.6349498432226,-74.1632263751539
+303,banco-de-bogota,Banco de Bogotá Avenida Pepe Sierra,Calle 116 # 18B-26,4.69846739,-74.04880725
+304,banco-de-bogota,Banco de Bogotá Funza,Calle 13 # 13-15,4.715981,-74.212529
+305,banco-de-bogota,Banco de Bogotá Iserra 100,Calle 100 # 39-51,4.68854447,-74.06314229
+306,banco-de-bogota,Banco de Bogotá Trinidad Galán,Carrera 56 # 2B-74,4.61883184,-74.12023381
+307,banco-de-bogota,Banco de Bogotá Ciudad Montes,Calle 8 # 34-47 Sur,4.60103610577431,-74.109803167554
+308,banco-de-bogota,Banco de Bogotá Carrera 11,Carrera 11 # 68-09,4.65357137,-74.0611213
+309,banco-de-bogota,Banco de Bogotá Carvajal,Avenida 1 de Mayo # 70B-29,4.61571455,-74.13695401
+310,banco-de-bogota,Banco de Bogotá Altavista,Carrera 1A # 65D-58 Sur,4.5317282,-74.1190141
+311,banco-de-bogota,Banco de Bogotá Campín,Calle 53B # 24-80,4.64322395,-74.07413404
+312,banco-de-bogota,Banco de Bogotá Centro Internacional,Carrera 7 # 32-53,4.61904087,-74.06817288
+313,banco-de-bogota,Banco de Bogotá Central de Abastos,Carrera 86 # 24A-19 Sur,4.63218507,-74.15471734
+314,banco-de-bogota,Banco de Bogotá Palermo,Carrera 13 # 44-34,4.63155103,-74.06645205
+315,banco-de-bogota,Banco de Bogotá Autopista 184,Carrera 45 # 183A-86,4.76032945,-74.04461504
+316,banco-de-bogota,Banco de Bogotá Calle 13 Carrera 30,Calle 13 # 30-32,4.61456287,-74.0919101
+317,banco-de-bogota,Banco de Bogotá Antiguo Country,Carrera 16A # 84-81,4.66961503,-74.05695903
+318,banco-de-bogota,Banco de Bogotá Alcázares,Carrera 24 # 72-92,4.66344521,-74.06676763
+319,banco-de-bogota,Banco de Bogotá Autopista Sur,Autopista Sur # 66-06,4.59639974291798,-74.1579471597011
+320,banco-de-bogota,Banco de Bogotá Avenida 6A Carrera 22,Carrera 22 # 5C-47,4.60165111,-74.09232525
+321,banco-de-bogota,Banco de Bogotá CUAN,Avenida Las Américas # 36-22,4.62530501,-74.09145457
+322,banco-de-bogota,Banco de Bogotá Avenida 19,Avenida 19 # 6-51,4.60507906243959,-74.0714930090733
+323,banco-de-bogota,Banco de Bogotá Calle 54,Calle 54 # 10-73,4.64056367,-74.06436806
+324,banco-de-bogota,Banco de Bogotá Oficina Principal,Calle 36 # 7-47,4.62334835,-74.06660733
+325,banco-de-bogota,Banco de Bogotá Universidad Javeriana,Carrera 7 # 40-70,4.62782531,-74.06521605
+326,banco-de-bogota,Banco de Bogotá Avenida Boyacá,Carrera 72 # 43C-47 Sur,4.60002459,-74.14469544
+327,banco-de-bogota,Banco de Bogotá Gran San Victorino,Carrera 10A # 9-37,4.59847537,-74.07916362
+328,banco-de-bogota,Banco de Bogotá Barrio Restrepo,Carrera 21 # 18-34 Sur,4.58617616,-74.10292845
+329,banco-de-bogota,Banco de Bogotá Centro Comercial Altavista,Carrera 1A # 65D-58 Sur,4.582816,-74.204785
+330,banco-de-bogota,Banco De Bogotá Unicentro,Avenida 15 # 124-30,4.70250953,-74.04286517
+331,banco-de-bogota,Banco de Bogotá Cajero,Carrera 16A Calle 85,4.66807,-74.05757
+332,banco-de-bogota,Cajero Banco de Bogotá Dirección General,Calle 36 # 7-47,4.6234485,-74.0666438
+333,banco-de-bogota,Banco de Bogotá Avenida Ciudad de Quito,Avenida Ciudad de Quito # 77-36,4.67121856,-74.07004982
+334,banco-de-bogota,Banco de Bogotá Carrera 24,Carrera 24 # 26-01,4.62214674,-74.07734932
+335,banco-de-bogota,Banco de Bogotá Tequendama,Carrera 13 # 27-50 Interior 181,4.6152545,-74.07016577
+336,banco-de-bogota,Banco de Bogotá San Victorino,Calle 13 # 15-39,4.60426019,-74.08086582
+337,banco-de-bogota,Cajero ATH Banco De Bogotá Galerias,Calle 53B # 25-21,4.64445481901026,-74.0782511825433
+338,banco-de-bogota,Banco de Bogotá Las Margaritas,Avenida 19 # 150-35,4.73189662,-74.04495454
+339,banco-de-bogota,Cajero Banco de Bogotá Calle 54,Calle 54 # 10-73,4.64056385,-74.06436411
+340,banco-de-bogota,Banco de Bogota,Avenida 1 de Mayo # 26-32 Sur,4.5889285923,-74.1085995762
+341,banco-de-bogota,Banco de Bogotá Veinte de Julio,Carrera 6A # 25-05 Sur,4.57024905,-74.09389805
+342,banco-de-bogota,Banco de Bogotá Chapinero,Carrera 13 # 61-08,4.64792287,-74.0637066
+343,banco-de-bogota,Banco de Bogotá Ciudad Salitre,Calle 26 # 69A-51,4.65864618,-74.10743594
+344,banco-de-bogota,Banco De Bogotá Pepe Sierra,Calle 116 # 18B 40,4.69857355311211,-74.0490889451904
+345,banco-de-bogota,Banco de Bogotá Éxito Calle 53,Carrera 13 # 52A-12,4.63966594,-74.06509906
+346,banco-de-bogota,Banco de Bogotá Avenida Carrera 30 con 75,Carrera 30 # 75-21,4.67022045,-74.07163968
+347,banco-de-bogota,Banco de Bogotá Calle 122 Carrera 15A,Calle 122 # 15A-10,4.70092671,-74.04382128
+348,banco-de-bogota,Banco de Bogotá Carrera 33,Carrera 33 # 48B-28 Sur,4.583091,-74.139838
+349,banco-de-bogota,Banco de Bogotá Carrera 47,Calle 13 # 46-57,4.62476828,-74.10393262
+350,banco-de-bogota,Banco de Bogotá Paloquemao,Calle 13 # 22-08,4.61010866,-74.08690995
+351,banco-de-bogota,Banco de Bogotá Centro,Calle 14 # 7-86,4.60103751,-74.07394458
+352,banco-de-bogota,Banco de Bogotá Avenida 15 Calle 106,Avenida 15 # 106-57,4.69092501,-74.04570165
+353,banco-de-bogota,Banco de Bogotá Carrera 15 Calle 90,Carrera 15 # 90-61,4.67473646,-74.05304024
+354,banco-de-bogota,Banco de Bogotá Centro Administrativo CAN,Calle 44 # 59-26,4.64886969,-74.09437938
+355,banco-de-bogota,Banco de Bogotá Andes,Carrera 8 # 12B-86,4.6009255,-74.07492304
+356,banco-de-bogota,Banco de Bogotá Calle 9A Carrera 34,Calle 9A # 34-64,4.61320699,-74.09967522
+357,banco-de-bogota,Banco de Bogotá Santa Teresita,Carrera 19 # 40-45,4.63027894,-74.07254875
+358,banco-de-bogota,Banco de Bogotá Parque Nacional,Carrera 7 # 34-87,4.62248046,-74.06673242
+359,banco-de-bogota,Banco de Bogotá Colina Office Park,Carrera 67 # 167-61,4.751581273628998,-74.06484067440033
+360,banco-de-bogota,Banco de Bogotá San José,Carrera 68 # 10-47,4.6331272,-74.12093413
+361,banco-de-bogota,Banco de Bogotá Aeropuerto el Dorado,Calle 26 # 103-09,4.691361516638909,-74.12999153137207
+362,banco-de-bogota,Banco de Bogotá Carrera 10 Calle 17,Carrera 10 # 16-92,4.60461217,-74.07509209
+363,banco-de-bogota,Banco de Bogotá Corferias,Diagonal 22B # 38-05,4.62615989,-74.09201616
+364,banco-de-bogota,Banco de Bogotá Ricaurte,Calle 10A # 28-60,4.60929129,-74.09358472
+365,banco-de-bogota,Banco de Bogotá San Agustín,Carrera 14 # 8-45,4.59968853,-74.08291656
+366,banco-de-bogota,Banco de Bogotá Estación Central Paloquemao,Calle 13 # 25-88,4.61001932,-74.08681711
+367,banco-de-bogota,Banco de Bogotá Siete de Agosto,Carrera 24 # 65-35,4.65678251,-74.07118304
+368,banco-de-bogota,Banco de Bogotá Bosa Centro,Calle 65 Sur # 80-47,4.60687213,-74.18462396
+369,banco-de-bogota,Banco de Bogotá Las Aguas,Avenida Jiménez # 3-17,4.60054689,-74.06965642
+370,banco-de-bogota,Banco de Bogotá Centro Comercial Gran Estación,Calle 26 # 62-47,4.647925644241863,-74.10150110721588
+371,banco-de-bogota,Banco de Bogotá Central San Martín,Calle 31A # 6-75,4.61793178,-74.06741209
+372,banco-de-occidente,Banco De Occidente San Martín,Carrera 10 # 27-55,4.61486284,-74.06941318
+373,banco-de-occidente,Banco de Occidente Montevideo,Carrera 68D # 17-67,4.64324888,-74.11953371
+374,banco-de-occidente,Banco de Occidente Chía,Avenida Pradilla # 2 Este-71,4.863056,-74.043599
+375,banco-de-occidente,Banco de Occidente Marly,Carrera 13 # 49-12,4.63628604,-74.06563769
+376,banco-de-occidente,Banco de Occidente Calle 116,Calle 116 # 17-71,4.69746101164,-74.0467195297
+377,banco-de-occidente,Banco De Occidente El Centro,Carrera 8 #15-73,4.60250789,-74.0741488
+378,banco-de-occidente,Banco de Occidente Chicó,Carrera 15 # 93A-48,4.67801855,-74.05120199
+379,banco-de-occidente,Banco de Occidente Andalucia,Carrera 5A # 11-25,4.597398,-74.073492
+380,banco-de-occidente,Banco de Occidente Carrera 15,Carrera 15 # 119-45,4.69942666,-74.04309554
+381,banco-de-occidente,Banco De Occidente  Avenida Jiménez,Carrera 8 # 14-45,4.60163562,-74.07467099
+382,banco-de-occidente,Banco de Occidente Avenida 68,Carrera 68 # 10-53,4.63290530668075,-74.1208696965372
+383,banco-de-occidente,Banco De Occidente Toberín,Carrera 45 # 166-44,4.7473772,-74.04666103
+384,banco-de-occidente,Banco de Occidente Porciúncula,Carrera 15 # 75-43,4.66217273,-74.05964252
+385,banco-de-occidente,Banco de Occidente Kennedy,Avenida Ciudad de Cali con Calle 46 Sur,4.62714782,-74.1734986
+386,banco-de-occidente,Banco de Occidente Teleport,Calle 113 # 7-21,4.69163411,-74.03440979
+387,banco-de-occidente,Banco De Occidente Carrera 10,Carrera 10 # 14-44,4.60262547,-74.0762965
+388,banco-de-occidente,Banco de Occidente Santa Bárbara,Avenida 19 # 120-64,4.70110073,-74.04945146
+389,banco-de-occidente,Banco de Occidente Chapinero,Carrera 13 # 58-62,4.64527577,-74.0641623
+390,banco-de-occidente,Banco de Occidente Centro de Pagos y Recaudos,Carrera 7A # 33-75,4.62056384,-74.06752787
+391,banco-de-occidente,Banco De Occidente Avenida Chile,Carrera 7 # 72-06,4.65516937,-74.05519517
+392,banco-de-occidente,Banco de Occidente Puente Aranda,Calle 13 # 62-82,4.63376843,-74.11346724
+393,banco-de-occidente,Banco De Occidente Calle 100,Calle 100 # 9A-39,4.68153489,-74.04185423
+394,banco-de-occidente,Banco de Occidente Las Ferias,Calle 72 # 70-83,4.68460953,-74.09231044
+395,banco-de-occidente,Banco de Occidente Zona Industrial,Diagonal 17 # 25-02,4.61317216,-74.08627319
+396,banco-de-occidente,Banco De Occidente Avenida 19,Carrera 7 # 19-28,4.60542829,-74.07147052
+397,banco-de-occidente,Banco de Occidente San Diego,Carrera 10 # 26-55,4.61324383,-74.07018134
+398,banco-de-occidente,Banco de Occidente Carrera 7,Carrera 7 # 114-10,4.69234057,-74.03341382
+399,banco-de-occidente,Banco de Occidente Fundación Santafé,Avenida 9 # 116-20,4.69423376,-74.03442406
+400,banco-de-occidente,Banco de Occidente Galerías,Carrera 24 # 51-33,4.6399498,-74.07435881
+401,banco-de-occidente,Banco de Occidente Unicentro,Avenida 15 # 123-30,4.70253594,-74.04279262
+402,banco-de-occidente,Banco de Occidente Comuneros,Calle 6 # 25A-51,4.60321926,-74.09400704
+403,banco-de-occidente,Banco de Occidente Centro Mayor,Calle 38A Sur # 34D-50,4.5921939943468875,-74.12419259548187
+404,banco-de-occidente,Banco de Occidente Centro Internacional,Carrera 13 # 27-43,4.61532371,-74.07029315
+405,banco-de-occidente,Banco de Occidente CAN,Diagonal 40 # 49A-28,4.64887879,-74.09438518
+406,banco-de-occidente,Banco De Occidente - Parque Nacional,Carrera. 58D # 146-51,4.6272201,-74.06716097
+407,banco-de-occidente,Banco de Occidente Bochica,Diagonal 28A Sur # 35A-06,4.59478526,-74.11532826
+408,banco-de-occidente,Banco de Occidente Teusaquillo,Carrera 47 # 22D-51,4.64167153,-74.10179571
+409,banco-de-occidente,Banco De Occidente Cedritos,Avenida 19 # 134A-22,4.71917833,-74.04682985
+410,banco-de-occidente,Banco de Occidente La Salle,Carrera 7 # 62-15,4.64700433,-74.06025023
+411,banco-de-occidente,Banco de Occidente Restrepo,Carrera 20 # 15-05 Sur,4.58754198,-74.10066352
+412,banco-de-occidente,Banco de Occidente Calle 3,Calle 3 # 1-64,4.705055,-74.229416
+413,banco-de-occidente,Banco de Occidente Country,Calle 85 # 16-41,4.66992235,-74.05624118
+414,banco-de-occidente,Banco De Occidente Pepe Sierra,Avenida Pepe Sierra # 15-45,4.6964077,-74.0438067
+415,banco-de-occidente,Banco de Occidente La Soledad,Avenida 22 # 37-26,4.62671237961729,-74.0748786346459
+416,banco-de-occidente,Banco de Occidente Punto Country,Carrera 16A # 82-46,4.66829016,-74.05742862
+417,banco-de-occidente,Banco de Occidente Avenida 82,Carrera 16A # 82-46,4.66655476,-74.05425055
+418,banco-de-occidente,Banco De Occidente Siete De Agosto,Carrera 25 # 65-45,4.65722359211185,-74.0714600906852
+419,banco-de-occidente,Banco de Occidente Didacol,Avenida El Dorado # 78-20,4.67247363,-74.1149705
+420,banco-de-occidente,Banco de Occidente Carrera 19,Carrera 19 # 134A-22,4.7191938646933,-74.0467697044664
+421,banco-de-occidente,Banco De Occidente Bulevar Niza,Carrera 58 # 127-59,4.71170074,-74.07042868
+422,banco-de-occidente,Banco de Occidente Avenida Suba,Avenida Suba # 115-58,4.699183322973154,-74.06935751438141
+423,banco-de-occidente,Banco de Occidente Carrera 47,Carrera 47 # 22A-99,4.63518058,-74.09672813
+424,banco-de-occidente,Banco de Occidente Avenida Ciudad de Cali,Calle 72A # 86-69,4.69679626,-74.10585616
+425,banco-de-occidente,Banco de Occidente Calle 94,Carrera 11A # 94-12,4.67759462,-74.04684481
+426,banco-de-occidente,Banco de Occidente Calle 72,Carrera 7 # 71-48,4.65414208,-74.05560158
+427,banco-gnb-sudameris,Banco GNB Sudameris Chicó,Carrera 11 # 94A-03,4.67797106,-74.04582952
+428,banco-gnb-sudameris,Banco GNB Sudameris Carrera 15 Con 88,Carrera 15 # 88-95,4.67384571,-74.0535067
+429,banco-gnb-sudameris,Banco GNB Sudameris Embajada de Francia,Carrera 11 # 93-12,4.67436296,-74.04755394
+430,banco-gnb-sudameris,Banco GNB Sudameris Las Américas,Calle 34 # 39A-91,4.62709835,-74.09465275
+431,banco-gnb-sudameris,Banco GNB Sudameris Paloquemao,Carrera 25 # 17-93,4.61361371,-74.08593425
+432,banco-gnb-sudameris,Banco GNB Sudameris Calle 71,Calle 71 # 11-02,4.65627591,-74.05943281
+433,banco-gnb-sudameris,Banco GNB Sudameris Dirección General,Carrera 7 # 75-85,4.65840707,-74.05323342
+434,banco-gnb-sudameris,Banco GNB Sudameris Centro Internacional,Diagonal 27 # 6-70,4.61233845,-74.0692151
+435,banco-gnb-sudameris,Banco GNB Sudameris Calle 100,Calle 100 # 11A-51,4.68286287,-74.0443974
+436,banco-gnb-sudameris,Banco GNB Sudameris Castillo,Carrera 7 # 72-74,4.65531318,-74.05511989
+437,banco-itau-1,Helm Bank Zona Industrial,Carrera 34 # 11-68,4.61512257188144,-74.0970457340596
+438,banco-itau-1,Helm Bank Chicó,Calle 94 # 15-11,4.67940977,-74.05067167
+439,banco-itau-1,Helm Bank Gran Estación,Calle 26 # 62-47,4.647925644241863,-74.10150110721588
+440,banco-itau-1,Helm Bank Calle 73,Carrera 7 # 73-45,4.65652484,-74.05455088
+441,banco-itau-1,Helm Bank World Trade Center,Calle 100 # 8A-59,4.68079062,-74.04049121
+442,banco-itau-1,Helm Bank Bulevar Niza,Carrera 58 # 127-59,4.71237263124181,-74.0703835859622
+443,banco-itau-1,Helm Bank Las Granjas,Calle 13 # 65A-68,4.63578237668378,-74.1160015237655
+444,banco-itau-1,Helm Bank El Bosque,Calle 134 # 7-83,4.71179520396214,-74.0300135177947
+445,banco-itau-1,Helm Bank Pepe Sierra,Avenida 116 # 15-96,4.69666009,-74.04387378
+446,banco-itau-1,Itaú C.C. Andino,Carrera 11 # 82-02,4.6666337678058705,-74.05268490314484
+447,banco-itau-1,Helm Bank Paloquemao,Carrera 25 # 13-21,4.61112995542061,-74.0878632212678
+448,banco-itau-1,Helm Bank Oficina Principal,Carrera 7 # 27-02,4.61356924,-74.0693909
+449,banco-itau-1,Helm Bank Puente Aranda,Carrera 50 # 21-41,4.63547797518174,-74.1008578033225
+450,banco-itau-1,Helm Bank U. Militar Nueva Granada,Carrera 11 # 101-80,4.684003038,-74.04266464
+451,banco-itau-1,Helm Bank Avenida El Dorado,Avenida El Dorado # 102A-19,4.68914933987327,-74.1310913455931
+452,banco-itau-1,Helm Bank Oficina Torre Rem,Calle 100 # 14-29,4.68420862,-74.04726891
+453,banco-itau-1,Helm Bank Santa Bárbara,Carrera 7 # 115-33,4.69327228,-74.03351477
+454,banco-itau-1,Cajero Servibanca Helm Bank Principal,Carrera 7 # 27-02,4.614625714,-74.06921478
+455,banco-itau-1,Helm Bank Fondo Nacional Del Ahorro,Calle 18 # 7-49,4.604606908,-74.07234111
+456,banco-itau-1,Helm Bank Unicentro,Avenida 15 # 124-30,4.7025087670258685,-74.04238522052765
+457,banco-pichincha,Banco Pichincha Restrepo,Carrera 19 # 15-32 Sur,4.58690661,-74.10015285
+458,banco-pichincha,Banco Pichincha Calle 80,Calle 80 # 74B-20,4.69714092137065,-74.0921854062476
+459,banco-pichincha,Banco Pichincha Centro Calle 22,Carrera 7 # 22-80,4.60842488,-74.07054212
+460,banco-pichincha,Banco Pichincha Santa María Plaza,Calle 13 # 5-41 Soacha,4.579719,-74.218467
+461,banco-pichincha,Banco Pichincha Contador,Avenida 19 # 134A-41,4.718742032,-74.04708529
+462,banco-pichincha,Banco Pichincha Unicentro,Avenida 15 # 124-30,4.7025087670258685,-74.04238522052765
+463,banco-pichincha,Banco Pichincha Toberín,Calle 166 # 20-21,4.74648706,-74.04379662
+464,banco-pichincha,Banco Pichincha Kennedy,Calle 35 Sur # 78A-12,4.6240611,-74.1483195
+465,banco-pichincha,Banco Pichincha Avenida Chile,Calle 72 # 11-27,4.65732735167757,-74.0590452427067
+466,banco-pichincha,Banco Pichincha Chicó,Carrera 11 # 92-09,4.6737616,-74.04802513
+467,banco-popular,Banco Popular La Castellana,Calle 95 # 30-34,4.68396765,-74.05987528
+468,banco-popular,Banco Popular - Villa Sonia,Transversal 35 # 38A-85 Sur,4.59399639,-74.12353516
+469,banco-popular,Banco Popular Chapinero,Carrera 13 # 62-09,4.64875872342424,-74.0636704479901
+470,banco-popular,Banco Popular Antiguo Country,Carrera 14A # 81-19,4.66677603,-74.05600546
+471,banco-popular,Banco Popular Plaza de las Américas,Transversal 71D # 6-94 Sur,4.623084,-74.13709338
+472,banco-popular,Edificio Banco Popular,Carrera 7 # 16-87,4.60331404824,-74.0724109206
+473,banco-popular,Banco Popular del Sur,Carrera 13A Bis # 54-09 Sur,4.56251047,-74.12771546
+474,banco-popular,Banco Popular Avenida Sexta,Calle 6 # 19A-74,4.60135952,-74.09057243
+475,banco-popular,Banco Popular - Paloquemao,Calle 13 # 31-46,4.61531034,-74.09276696
+476,banco-popular,Banco Popular - Rapicade Bochica,Transversal 35 Bis # 28-31,4.63183948,-74.08225076
+477,banco-popular,Banco Popular - San Diego,Carrera 13 # 26-74,4.6138561,-74.07101967
+478,banco-popular,Banco Popular - Teusaquillo,Carrera 40 # 22C-67,4.62927254,-74.08914274
+479,banco-popular,Banco Popular,Avenida Rojas # 65A-42,4.67721010873,-74.0960983451
+480,banco-popular,Banco Popular 20 de Julio Carrera 6 con Calle 25C,Carrera 6 # 25C-26 Sur,4.5701005,-74.09384483
+481,banco-popular,Banco Popular - Ciudad Universitaria,Calle 26 # 40-00,4.63434948,-74.08900844
+482,banco-popular,Banco Popular - Autopista Sur,Autopista Sur # 12-94,4.597633329,-74.10956846
+483,banco-popular,Banco Popular - Las Villas,Calle 145 # 128-04,4.71427169,-74.07265156
+484,banco-popular,Banco Popular Alamos Industrial,Transversal 93 # 62-92,4.68753057,-74.11976413
+485,banco-popular,Banco Popular La Esmeralda,Transversal 41 # 42-05,4.64538497,-74.0921725
+486,banco-popular,Banco Popular - Diagonal 62,Diagonal 62 # 19A-43 Sur,4.56176295,-74.13958741
+487,banco-popular,Cajero Banco Popular 20 de Julio,Carrera 5 # 25C-44,4.61127284684,-74.0675289714
+488,banco-popular,Banco Popular Álamos Industrial,Transversal 93 # 64-52,4.68945867,-74.11750012
+489,banco-popular,Banco Popular - San Facón,Diagonal 15 # 25-40,4.61225202,-74.08744234
+490,banco-popular,Banco Popular Carrera Marly,Carrera 13 # 51-37,4.638512,-74.065362
+491,banco-popular,Banco Popular Avenida Chile,Calle 72 # 12-57,4.65793569,-74.06001329
+492,banco-popular,Banco Popular Carrera 79 con Calle 42,Carrera 79 # 42-24 Sur,4.61985593846458,-74.1612455620352
+493,banco-popular,Banco Popular Plaza Imperial,Avenida 104 # 148-07,4.749827789405402,-74.09565925598145
+494,banco-popular,Banco Popular - Carrera 7,Carrera 7 # 12B-93,4.60080984389,-74.0738767054
+495,banco-popular,Banco Popular - Supercade Bosa,Calle 57R Sur # 72D-12,4.59569311,-74.16875584
+496,banco-popular,Banco Popular - Kennedy,Carrera 75C # 35-18 Sur,4.62323077,-74.14893496
+497,banco-popular,Banco Popular Centro Mayor,Calle 38A Sur # 34D-50,4.5921939943468875,-74.12419259548187
+498,banco-popular,Banco Popular Cedritos,Avenida 19 # 137-26,4.72164938,-74.04638871
+499,banco-popular,Banco Popular Corabastos,Carrera 86 # 24-19 Sur,4.63218507,-74.15471734
+500,banco-popular,Banco Popular - Chicó,Carrera 15 # 93-87,4.67779439961237,-74.0514308569013
+501,banco-popular,Banco Popular Altavista,Carrera 1 # 65D-58,4.477515,-74.122216
+502,banco-popular,Banco Popular Restrepo Carrera 20,Carrera 20 # 14-41 Sur,4.58807638689251,-74.1000204258834
+503,banco-popular,Banco Popular Teusaquillo Carrera 13 con Calle 38,Carrera 13 # 38-60,4.62722725,-74.06715921
+504,banco-popular,Banco Popular Chicó - Parque 93,Carrera 11 # 93-43,4.67727948,-74.05175876
+505,banco-popular,Banco Popular Carrera 78 con 8C,Carrera 78 # 8C -21,4.638351,-74.141677
+506,banco-popular,Banco Popular Acueducto,Carrera 40 # 22B-56,4.63048861,-74.09307116
+507,banco-popular,Banco Popular,Carrera 36 # 23A-39,4.627375168,-74.09091803
+508,banco-popular,Banco Popular Calle 14,Calle 14 # 8-50,4.60165336,-74.07491641
+509,banco-popular,Banco Popular Corabastos,Carrera 80 # 2-51,4.63222892,-74.15414366
+510,banco-popular,Banco Popular Calle 64,Carrera 7 # 64-09,4.64855544,-74.05956253
+511,banco-popular,Banco Popular - Sosiego,Carrera 10 # 17-50 Sur,4.57796191,-74.09275961
+512,banco-popular,Banco Popular,Carrera 7 # 13-93,4.60044818,-74.0741373
+513,banco-popular,Banco Popular - Antiguo Country,Carrera 15  # 82-99,4.668189,-74.0562382
+514,banco-popular,Banco Popular Galerías,Calle 53 # 24-05,4.6418566,-74.07404548
+515,banco-popular,Banco Popular La Castellana,Calle 95 # 47-34,4.68396784,-74.05987156
+516,banco-popular,Banco Popular Centro Administrativo Distrital,Avenida De las Américas # 32-71,4.62460035,-74.08624521
+517,banco-popular,Banco Popular Fontibón,Carrera 100 # 20-67,4.67544078,-74.14299518
+518,banco-popular,Banco Popular - Puente Aranda,Calle 13 # 60-72,4.63300373,-74.11261807
+519,banco-popular,Banco Popular Principal,Calle 17 # 7-43,4.6035775,-74.0725711
+520,banco-popular,Banco Popular - Santafé,Calle 185 # 45-03,4.76233195890266,-74.04526591300964
+521,banco-popular,Banco Popular - Supercade Suba,Calle 146 # 105-05,4.747395,-74.09348
+522,banco-popular,Banco Popular - La Floresta,Transversal 48 # 94-97,4.68566939,-74.07283031
+523,banco-popular,Banco Popular - Avenida Américas,Avenida de las Américas # 43B-32,4.62877757,-74.09814472
+524,banco-popular,Banco Popular - Titán Plaza,Carrera 72 # 80-94,4.694013348707585,-74.08651828765869
+525,banco-popular,Banco Popular CAN,Calle 44 # 57A-02,4.647283,-74.0934734
+526,banco-popular,Banco Popular - La Esmeralda,Carrera 54 # 44-05,4.64538497,-74.09216857
+527,banco-popular,Banco Popular Carrera 9 con Calle  9,Carrera 9 # 9-13,4.59861060019864,-74.0775268052259
+528,banco-popular,Banco Popular San Agustín,Carrera 9 # 9-00,4.59759216,-74.07809447
+529,banco-popular,Banco Popular - Carrera 8,Carrera 8A # 11-77,4.59916042,-74.07605097
+530,banco-popular,Banco Popular Feria Exposición,Carrera 36 # 23A-39,4.6267342,-74.0918783
+531,banco-popular,Banco Popular - Modelia,Calle 24 # 75-40,4.66628884,-74.11995106
+532,banco-popular,Banco Popular Hayuelos,Calle 20 # 82-50,4.66273235,-74.13079139
+533,banco-popular,Banco Popular Siete de Agosto,Carrera 25A # 66-69,4.65801108,-74.07099223
+534,banco-popular,Banco Popular - Veinte de Julio,Carrera 6 # 22-01 Sur,4.57122997,-74.09295171
+535,banco-popular,Banco Popular - Punto de Servicio,Diagonal 146 # 128,4.75459556613367,-74.1067210425678
+536,banco-popular,Banco Popular Calle 18,Calle 18 # 104B-52,4.677332014,-74.14727387
+537,banco-popular,Banco Popular - Cedritos,Calle 140 # 13-67,4.72090489,-74.04041293
+538,banco-popular,Banco Popular - Ricaurte,Calle 10 # 28-26,4.60917611,-74.09343731
+539,banco-popular,Banco Popular - Cafam Floresta,Avenida Carrera 68 # 90-88,4.686442769203438,-74.07411575317383
+540,banco-popular,Banco Popular Avenida Caracas,Carrera 14 # 19-02,4.60866848,-74.07612721
+541,banco-popular,Banco Popular - Los Ministerios,Carrera 8 # 6-94,4.59144917,-74.08039837
+542,banco-popular,Banco Popular - Zona Industrial,Avenida Carrera 68 # 10-17,4.63306845,-74.12095966
+543,banco-popular,Banco Popular Arrecife,Calle 26 # 69D-91,4.6610749,-74.10899121
+544,banco-popular,Banco Popular - Muzú,Calle 44 Sur # 50-81,4.59453578,-74.13707343
+545,banco-popular,Banco Popular Carrera 7 con Calle 64,Carrera 7 # 64-04,4.64845154,-74.05939883
+546,banco-popular,Banco Popular - Calle  95,Carrerra 11 # 95-10,4.67861267,-74.04534114
+547,banco-popular,Banco Popular Avenida Sexta,Avenida 6 # 20-28,4.60115591,-74.09030008
+548,banco-popular,Banco Popular - Plaza España,Carrera 18 # 12-87,4.60597536,-74.08406859
+549,banco-popular,Banco Popular - Usaquén,Calle 116 # 7-15,4.69376755,-74.03371218
+550,banco-popular,Banco Popular - Universidad Nacional,Carrera 30 # 45-77,4.63506297,-74.07984412
+551,banco-popular,Banco Popular - Unicentro,Avenida Carrera 15 # 124-30,4.7025087670258685,-74.04238522052765
+552,banco-popular,Banco Popular - Barrio Claret,Carrera 26 # 43-76 Sur,4.5819787,-74.12599266
+553,banco-popular,Banco Popular Teusaquillo,Carrera 13 # 35-15,4.62301562,-74.06801818
+554,banco-popular,Banco Popular Carrera 11 con Calle  94,Carrera 11 # 94-27,4.67729488,-74.04617591
+555,banco-popular,Cajero Banco Popular Aeropuerto El Dorado II,Calle 26 # 103-09,4.697793261270953,-74.13991570472717
+556,banco-popular,Banco Popular Barrio Restrepo,Carrera 18 # 16-42 Sur,4.58589093,-74.10009667
+557,banco-popular,Banco Popular - Las Nieves,Carrera 7 # 23-81,4.609812791093705,-74.07023191452026
+558,banco-popular,Banco Popular - Carrera 18,Carrera 18 # 16-38 Sur,4.585822128,-74.1001902
+559,banco-popular,Banco Popular - Carrera 48,Carrera 48 # 95-56,4.6844995,-74.06067971
+560,banco-popular,Banco Popular - Toberín,Calle 166 # 39-24,4.74663079,-74.04377624
+561,bancolombia,Bancolombia C.C. Ventura Terreros,Carrera 1 # 38-55,4.589696849,-74.19675708
+562,bancolombia,Bancolombia Plaza España,Carrera 17 # 11-13,4.60407025,-74.08388743
+563,bancolombia,Bancolombia World Trade Center,Calle 100 # 9A-45,4.68059539675068,-74.0403384800723
+564,bancolombia,Bancolombia Calle Once,Calle 11 # 11-20,4.60072571,-74.07892584
+565,bancolombia,Bancolombia Calle 122,Calle 122 # 18-61,4.7014934,-74.0476681
+566,bancolombia,Bancolombia C.C. Ventura Terreros,Carrera 1 # 38-53,4.578729,-74.184307
+567,bancolombia,Bancolombia Puente Largo,Avenida Suba # 105-08,4.6930746,-74.06678441
+568,bancolombia,Autoservicio Bancolombia Centro Mayor,Calle 38A Sur # 34D-50,4.59314134596946,-74.1231045844058
+569,bancolombia,Bancolombia Calle 13,Calle 13 # 36-51,4.6189386,-74.0972977
+570,bancolombia,Bancolombia Samper Mendoza,Diagona 23 Bis # 19B-27,4.6185032,-74.0787965
+571,bancolombia,Bancolombia Bella Suiza,Diagonal 127A # 10-40,4.70276691,-74.03064219
+572,bancolombia,Bancolombia Calle 87,Calle 87 # 11-18,4.67042539,-74.04983884
+573,bancolombia,Bancolombia Milenio Plaza,Carrera 86 # 42B-51 Sur Centro Comercial Milenio Plaza Local 162/66,4.62973941,-74.16899872
+574,bancolombia,Bancolombia - Frigorifico,Avenida Ciudad de Cali # 15A-91,4.65693431,-74.13853638
+575,bancolombia,Bancolombia Caja Restrepo,Calle 18 Sur # 17-34,4.58444015,-74.10092108
+576,bancolombia,Bancolombia Mercantil,Carrera 7 # 19-29,4.60547925,-74.07160554
+577,bancolombia,Bancolombia Edificio Lara,Carrera 13 # 13-23,4.60326234,-74.0790098
+578,bancolombia,Bancolombia Bazar Alsacia,Calle 12 B # 71D-61,4.6452881,-74.1295141
+579,bancolombia,Bancolombia Calle 92,Avenida Calle 92 # 15-80,4.6763896,-74.0531936
+580,bancolombia,Bancolombia Ciudad Salitre,Calle 25 # 68B-02  Local 111,4.65445106,-74.10698002
+581,bancolombia,Bancolombia Pablo VI,Carrera 40C # 53-50,4.64908714,-74.08795123
+582,bancolombia,Bancolombia San Luis,Calle 63 # 17-15,4.65013487,-74.06798651
+583,bancolombia,Bancolombia Santa Bárbara,Carrera 7 N° 115-60 Centro Comercial Hacienda Santa Bárbara Local C124-7,4.69314805,-74.03320306
+584,bancolombia,Bancolombia Puerta Grande,Calle 10 # 22-04,4.60632946,-74.08937607
+585,bancolombia,Bancolombia Santa Lucia,Calle 44 # 21-46 Sur,4.57650631,-74.12421409
+586,bancolombia,Bancolombia Trinidad Galán,Calle 4B # 56-27,4.6215612,-74.11806406
+587,bancolombia,Bancolombia Calle 58,Carrera 13 # 58-18,4.644693,-74.0643363
+588,bancolombia,Bancolombia Ecopetrol,Carrera 13 # 35-39,4.62314487,-74.06800171
+589,bancolombia,Bancolombia - Éxito Suba,Calle 145 # 105B-58,4.7469129,-74.09671685
+590,bancolombia,Cajero Bancolombia Carrera 112A,Carrera 112A Calle 78D-31 Local 2,4.71836374,-74.12122404
+591,bancolombia,Bancolombia  C.C. Fontanar Chía,Kilómetro 2.5 Vía Chía  Cajicá,4.88487566311489,-74.0347409248352
+592,bancolombia,Bancolombia Éxito calle 170,Calle 175 # 22-13,4.75474608752114,-74.04468655586243
+593,bancolombia,Bancolombia - Fontibón Avenida Centenario,Avenida Centenario # 106-55,4.67685647,-74.14930029
+594,bancolombia,Bancolombia Ciudad Salitre Occidental,Carrera 68B # 40-39  Éxito,4.65232287,-74.10946099
+595,bancolombia,Bancolombia Aeropuerto El Dorado 1,Calle 26 # 103-09,4.691404288203831,-74.12917613983154
+596,bancolombia,Bancolombia El Dorado,Avenida El Dorado # 85D-55,4.65636654,-74.10597149
+597,bancolombia,Bancolombia Santa Beatriz,Carrera 15 # 119-41,4.6993667,-74.0431105
+598,bancolombia,Bancos WWB Chía,Carrera 9 # 16-02,4.60365649851,-74.0745484017
+599,bancolombia,Bancolombia Calle 26,Calle 26 # 32-61,4.62870955,-74.08239987
+600,bancolombia,Bancolombia - Ricaurte,Carrera 28 # 11-48,4.61021012,-74.09229359
+601,bancolombia,Bancolombia - Unisur,Carrera 3 # 29A-02,4.61476956,-74.06343254
+602,bancolombia,Bancolombia Bulevar Niza,Carrera 58 # 127-59 Centro Comercial Bulevar Niza Local 133/34,4.71170074,-74.07042868
+603,bancolombia,Bancolombia Cafam Floresta,Avenida Carrera 68 # 90-88,4.686442769203438,-74.07411575317383
+604,bancolombia,Bancolombia Calle 79,Carrera 15 # 79-05,4.66541181,-74.05777885
+605,bancolombia,Bancolombia - Usaquén,Calle 114 # 6A-92,4.6920293,-74.03250832
+606,bancolombia,Bancolombia Portal 80,Transversal 100A # 80A-20,4.71007917206986,-74.11040604114532
+607,bancolombia,Bancolombia Santa Bibiana,Avenida 19 # 101-91,4.68684372,-74.05197616
+608,bancolombia,Bancolombia - Toberín,Avenida 13 # 163A-74,4.74454131,-74.0471514
+609,bancolombia,Bancolombia Las Granjas,Calle 17 # 65B-95,4.63882205476187,-74.1147339498493
+610,bancolombia,Cajero Bancolombia,Carrera 73 # 39-89 Sur,4.61414063,-74.1506816
+611,bancolombia,Bancolombia - Unicentro,Calle 122 # 21-70,4.7023301,-74.05211685
+612,bancolombia,Bancolombia Callejas,Avenida 19 # 125-26,4.70464909,-74.04884719
+613,bancolombia,Bancolombia Centro de Pagos Subazar,Carrera 92 # 145-42,4.7386413,-74.0875657
+614,bancolombia,Bancolombia Chapinero,Calle 57 # 13-59,4.6438341,-74.06480523
+615,bancolombia,Bancolombia Corresponsal Bancario Carrera 2 con 4,Carrera 2 # 4-14,4.872909,-74.144958
+616,bancolombia,Bancolombia Alhambra,Transversal 33 # 114A-28,4.69851867,-74.05668033
+617,bancolombia,Bancolombia Mandalay,Carrera 76 # 33A-24 Sur,4.62482988,-74.14817898
+618,bancolombia,Bancolombia Lourdes,Calle 61 # 11-35,4.64751881,-74.0632712
+619,bancolombia,Bancolombia Álamos,Transversal 96 #70A-85,4.69780169,-74.11629209
+620,bancolombia,Bancolombia Alquería,Calle 68 # 39-92 Sur,4.57050346,-74.15316366
+621,bancolombia,Bancolombia Belmira,Carrera 7 # 140-71,4.71656299,-74.02886588
+622,bancolombia,Bancolombia Carrera 10,Carrera 10 # 17-54,4.60539331,-74.07463488
+623,bancolombia,Bancolombia Chicó 94,Calle 94 # 13-18,4.67845928,-74.0485575
+624,bancolombia,Bancolombia Quinta Paredes,Carrera 42B # 22D-07,4.63200861,-74.0910802
+625,bancolombia,Bancolombia - Contador,Avenida Carrera 19 # 137-34,4.7220363,-74.0464128
+626,bancolombia,Bancolombia Alcázares Calle 72,Calle 72 # 22-42,4.66225824,-74.06589233
+627,bancolombia,Bancolombia - Restrepo,Carrera 18 # 15-20 Sur,4.58634411,-74.09959535
+628,bancolombia,Bancolombia Avenida de las Américas,Cll 20 # 43-23,4.62610101,-74.10004496
+629,bancolombia,Bancolombia  C.C. Atlantis Plaza,Calle 81 # 13-05,4.6662541566442,-74.0557318925857
+630,bancolombia,Bancolombia a la Mano,Calle 44 Sur # 23-66,4.57586680933,-74.1278821118
+631,bancolombia,Bancolombia Las Ferias,Calle 72 # 69P-15,4.68389551,-74.09140391
+632,bancolombia,Bancolombia Avenida Boyacá con 36,Avenida Boyacá # 36-41,4.614806932086016,-74.14069890975952
+633,bancolombia,Cajero Bancolombia Centro Comercial Altavista Usme,Cra. 1 N° 65D-58 Sur,4.53234,-74.118685
+634,bancolombia,Bancolombia - Galerías,Carrera 27 # 53-59,4.642935,-74.075819
+635,bancolombia,Bancolombia - Porciuncula,Calle  72 # 10-34,4.65831988,-74.05788508
+636,bancolombia,Bancolombia Santafé,Calle 185 # 45-03,4.76235868839322,-74.04514789581299
+637,bancolombia,Bancolombia Cedritos,Carrera 23B # 140-10,4.72406994,-74.04983545
+638,bancolombia,Bancolombia CAN,Diagonal 40 # 47-80,4.6459234,-74.09248971
+639,bancolombia,Bancolombia Centro de pagos Corabastos,Carrera 86 # 24A-19Sur,4.6303723,-74.1585567
+640,bancolombia,Bancolombia Colina Campestre,Carrera 58 # 137A-58,4.72706192,-74.06479881
+641,bancolombia,Bancolombia Colseguros,Calle17 # 9-20,4.60547212,-74.0745885
+642,bancolombia,Bancolombia Marly,Carrera 13 # 49-82,4.63659987,-74.06558646
+643,bancolombia,Bancolombia Modelia Calle 23G,Calle 23G # 74A-60,4.66532486,-74.11990273
+644,bancolombia,Bancolombia Avenida 6,Calle 6 # 20-42,4.60121788,-74.09038422
+645,bancolombia,Bancolombia Centro de Pagos Fontibón,Carrera 99 # 18A-15,4.6736903,-74.1458347
+646,bancolombia,Bancolombia - Normandía,Carrera 73A # 52B-68,4.6736185,-74.1084377
+647,bancolombia,Bancolombia 7 de Agosto,Carrera 24 # 63F-36,4.65563338,-74.07153918
+648,bancolombia,Bancolombia Avenida Suba 106,Carrera 54 # 106-62,4.69493095,-74.06337768
+649,bancolombia,Bancolombia Edificio Bancolombia,Carrera 7 # 31-10,4.61726076352755,-74.0684123311058
+650,bancolombia,Bancolombia Javeriana 2,Carrera 7 # 40-62,4.62777858,-74.06522888
+651,bancolombia,Bancolombia Autopista 98,Calle 97 # 23-60,4.68484983,-74.0566261
+652,bancolombia,Bancolombia Avenida Suba Calle 115,Avenida Suba # 115-79,4.69869517,-74.06988021
+653,bancolombia,Cajero Bancolombia Santafé,Calle 185 # 45-03,4.762305229411069,-74.04520153999329
+654,bancolombia,Bancolombia Corresponsal Bancario Calle 15,Calle 15 # 9-21,4.713469,-74.20937
+655,bancolombia,Bancolombia Hotel Tequendama,Carrera 10 # 27-17,4.614705338561429,-74.0697705745697
+656,bancolombia,Bancolombia Salitre Plaza,Carrera 68B # 24-39,4.654053023867937,-74.11002516746521
+657,bancolombia,Bancolombia  Antiguo Country,Carrera 16A # 84-93,4.6696357,-74.05694655
+658,bancolombia,Bancolombia Centro Suba,Calle 145 # 91-19,4.737745734305473,-74.08512890338898
+659,bancolombia,Bancolombia Pepe Sierra,Calle 116 # 19A-05,4.69869423,-74.05077418
+660,bancolombia,Bancolombia Calle Primera,Calle 1 # 17A-44,4.848236,-74.059251
+661,bancolombia,Bancolombia Modelia Carrera 75,Carrera 75 # 23G-14,4.6656489,-74.12018697
+662,bancolombia,Bancolombia Puente Aranda,Carrera 68 # 19-64,4.64290498,-74.11237724
+663,bancolombia,Bancolombia Terminal de Transporte,Diagonal 33B # 69-35,4.653506,-74.1170981
+664,bancolombia,Bancolombia Éxito Américas,Avenida Américas # 68A-94,4.63008262,-74.1284474
+665,bancolombia,Bancolombia Autopista 184,Autopista Norte # 183-86,4.761054288042524,-74.04413938522337
+666,bancolombia,Bancolombia Bosa,Calle 65 Sur # 78L-53,4.6059183,-74.1840944
+667,bancolombia,Bancolombia Éxito Colina 2,Carrera 52 # 144-10,4.73481607141743,-74.06553268432617
+668,bancolombia,Bancolombia Granjas de Techo,Carrera 68 # 14-44,4.63825099,-74.11703702
+669,bancolombia,Bancolombia Las Aguas,Carrera 3 # 18-09,4.60232408,-74.06862865
+670,bancolombia,Bancolombia Bavaria,Avenida Boyacá # 12B-98,4.64649126,-74.12953896
+671,bancolombia,Bancolombia Centro de pagos Occidente,Avenida Calle 80 # 69-40,4.687547,-74.0814341
+672,bancolombia,Bancolombia Mercurio Plaza,Carrera 7 # 33-32,4.62023579,-74.06751461
+673,bancolombia,Bancolombia - Quinta Camacho,Calle 67 # 7-35,4.65072906,-74.05843025
+674,bancolombia,Bancolombia - Montevideo,Carrera 68D # 17-37,4.6434417,-74.1193877
+675,bancolombia,Bancolombia - Terraza Pasteur,Carrera 7 # 23-56,4.60932928,-74.07028665
+676,bancolombia,Bancolombia - Titán,Carrera 72 # 80-94,4.694398291234906,-74.08677577972412
+677,bancolombia,Bancolombia Centro Industrial Puente Aranda,Calle 13 # 60-10,4.63282628,-74.11243229
+678,bancolombia,Bancolombia Park Way,Calle 39 # 24-07,4.62772128,-74.07553917
+679,bancolombia,Bancolombia Barrios Unidos,Calle 67 # 25-09,4.6584972,-74.07066898
+680,bancolombia,Bancolombia La Soledad,Calle 39 # 22-09,4.6277215,-74.07554645
+681,bancolombia,Bancolombia Autonal,Autopista Norte # 128A-06,4.71305629,-74.05241168
+682,bancolombia,Bancolombia Funza,Carrera 15 # 14-21,4.717411,-74.212647
+683,bancolombia,Bancolombia - Santander Sur,Avenida 1 de Mayo # 32A-54 Sur,4.61913292,-74.14267545
+684,bancolombia,Bancolombia - Palatino,Carrera 7 # 138-33,4.7153254,-74.0288541
+685,bancolombia,Bancolombia Calle 1,Carrera 7 # 1-88,4.58692266,-74.08154477
+686,bancolombia,Bancolombia,Calle 72 # 8-56 Local 1,4.65579675,-74.05663257
+687,bancolombia,Bancolombia Alcala,Calle 134A # 45-95,4.7197053225276,-74.0527142174102
+688,bancolombia,Bancolombia Andino,Carrera 11 # 82-71,4.667104271495965,-74.05310332775115
+689,bancolombia,Bancolombia Cedro Bolivar,Carrera 19 # 150-68,4.73204061,-74.04468412
+690,bancolombia,Bancolombia Calle 53,Calle 53 # 25-03,4.64180233,-74.07455232
+691,bancolombia,Bancolombia La Carolina Unicentro,Avenida 15 # 124-30,4.7025087670258685,-74.04238522052765
+692,bancolombia,Bancolombia Modelia Carrera 77A,Carrera 77A # 38A-06,4.66563475,-74.12020271
+693,bancolombia,Bancolombia Multiplaza Drive,Calle 153 # 59-15 Centro Comercial Multiplaza Drive Local 1–01/1–02/1–03/1–04/1–35/1–36/1–37/1–38,4.74169523,-74.06372358
+694,bancolombia,Bancolombia San Diego,Carrera 10 # 27-47,4.61484522,-74.06941533
+695,bancolombia,Bancolombia Candelaria,Carrera 10 # 15-55,4.60355937,-74.07588284
+696,bancolombia,Bancolombia - Tunal,Calle 47B Sur # 24B-33,4.57826554,-74.12951401
+697,bancolombia,Bancolombia Jorge Eliecer Gaitán,Calle 79 # 37-41,4.67278947,-74.06942541
+698,bancolombia,Bancolombia Alkosto 68,Carrera 68 # 72-43,4.679685,-74.085855
+699,bancolombia,Bancolombia Avenida Chile,Calle 72 # 8-20,4.6556627,-74.0564093
+700,bancolombia,Bancolombia Calle 100,Carrera 15 # 102-44,4.68733864,-74.04750666
+701,bancolombia,Bancolombia Carrera Octava,Carrera 8 # 12B-17,4.60072136,-74.07520474
+702,bancolombia,Bancolombia Centro Mayor,Calle 38A Sur # 34D-50,4.5921939943468875,-74.12419259548187
+703,bancolombia,Bancolombía Chía,Avenida Pradilla # 2 Este-71,4.863056,-74.043599
+704,bancolombia,Bancolombia - Calle 3,Calle 3 # 1-76,4.70512,-74.229501
+705,bancolombia,Bancolombia - Calle 57,Carrera 8 # 56-89,4.64280551,-74.06297255
+706,bancolombia,Bancolombia - Paloquemao,Carrera 25 # 16-64,4.61337991,-74.08593787
+707,bancolombia,Bancoomeva - Santa Barbara,Carrera 7 # 115-60,4.773916,-74.026242
+708,bancolombia,Bancolombia - Nissan,Calle 13 # 50-69,4.69581738,-74.07343853
+709,bancolombia,Bancolombia - Suba,Avenida Suba # 104-66,4.6923283,-74.06634965
+710,bancolombia,Bancolombia 3M,Avenida el Dorado # 75-93,4.67090277,-74.11500918
+711,bancolombia,Bancolombia - Fontibón,Carrera 100 # 18-59,4.675066928,-74.14417595
+712,bancolombia,Bancolombia - Soacha,Calle 13 # 8-87,4.583571,-74.219529
+713,bancolombia,Bancolombia Centro Suba,Calle 145 # 91-19,4.737745734305473,-74.08512890338898
+714,bancolombia,Bancolombia Calatrava,Avenida Suba # 128B-16,4.71804608,-74.07358908
+715,bancolombia,Bancolombia Centro Financiero,Calle 71A # 6-11,4.65421846,-74.05465006
+716,bancolombia,Bancolombia Codabas,Carrera 7 # 180-75,4.7573003,-74.0278092
+717,bancolombia,Bancolombia La Sevillana,Autopista Sur # 60-10,4.59500407,-74.1472827
+718,bancolombia,Bancolombia Hayuelos,Calle 20 # 82-52 Centro Comercial Hayuelos Local 1-56/1-57,4.663324193166743,-74.13029193878172
+719,bancolombia,Bancolombia Metrópolis,Avenida 68 # 75A-50,4.6803156723555706,-74.08223748207092
+720,bancolombia,Bancolombia - Corabastos,Carrera 80 # 2-51,4.63222892,-74.15414366
+721,bancolombia,Bancolombia - Floralia,Avenida 1 de Mayo # 69-51 Sur,4.61301089252,-74.134799822
+722,bancolombia,Bancolombia - Tenjo 2,Carrera 4 # 3-54,4.871609407181649,-74.1447651386261
+723,bancolombia,Bancolombia Prado Veraniego,Avenida 13 # 129A-05,4.71605949,-74.052748
+724,bancolombia,Bancolombia - Quirigua,Calle 83B # 92-36,4.70897603,-74.10284505
+725,bancolombia,Bancolombia - Teleport,Calle 113 # 7-21,4.6916642,-74.0341654
+726,bancolombia,Bancolombia - UGI,Carrera 13 # 39-35,4.62741256,-74.06727073
+727,bancolombia,Bancoomeva - Ciudad Salitre,Diagonal 22B # 68C-25,4.65221767,-74.11101121
+728,bancolombia,Bancolombia Centro de Pagos San Martín,Carrera 7 # 31-42,4.61770306,-74.06849831
+729,bancolombia,Bancolombia Plaza de las Américas,Transversal 71D # 06-94 Sur,4.619442789548298,-74.13515746593475
+730,bancolombia,Bancolombia Paralelo 108,Carrera 45 # 108-27,4.69549402,-74.05619134
+731,bancolombia,Bancolombia - Universidad Autónoma,Calle 13 # 4-30,4.59840158,-74.07179968
+732,bancolombia,Bancolombia Éxito Calle 80,Carrera 59A # 79-30,4.67996941,-74.07413477
+733,bancolombia,Bancolombia Avenida 19,Avenida 19 # 108A-65,4.69458307,-74.05070053
+734,bancolombia,Bancolombia - Venecia,Diagonal 46 Sur # 50-83,4.5936845,-74.12887963
+735,bancolombia,Bancolombia Calima,Avenida 19 # 28-80,4.6170001705915,-74.0866001118205
+736,bancolombia,Bancolombia - Universidad Javeriana,Carrera 7 # 40-68,4.62781363,-74.06521926
+737,bancolombia,Bancolombia Éxito Country,Calle 134 # 9-51,4.7129323,-74.0338283
+738,bancolombia,Bancolombia Calle 140,Carrera 12 B # 140-10,4.7204279,-74.038724
+739,bancolombia,Bancolombia Centro 93,Carrera 15 # 93-60,4.67706989,-74.05170672
+740,bancolombia,Bancolombia La Salle,Carrera 7 # 59-48,4.64464427766262,-74.0614200902892
+741,bancolombia,Bancoomeva - Plaza de las Américas,Transversal 71D # 06-94 Sur,4.619442789548298,-74.13515746593475
+742,bancolombia,Bancolombia - Valvanera,Calle 16 Sur # 22-15,4.58714321,-74.10108024
+743,bancolombia,Bancolombia Ciudad Kennedy,Calle 35A # 75B-06 Sur,4.62311382,-74.14860422
+744,bancolombia,Bancolombia Centro Internacional,Carrera 7 # 30A-28,4.61691993,-74.06867268
+745,bancolombia,Bancolombia - Terminal de Transporte Sur,Calle 57Q Sur # 75F-82,4.59705582,-74.1764376
+746,bancolombia,Bancolombia La Gran Estación,Avenida Calle 26 # 62-47,4.6651763,-74.1295246
+747,bancolombia,Bancolombia Corresponsal Bancario Calle 14,Calle 14 # 13-84,4.716739,-74.211859
+748,bancolombia,Bancolombia Altavista Usme,Diagonal 65D Sur # 1-07 Este,4.5321833,-74.1199377
+749,bancolombia,Bancolombia - Veinte de Julio,Calle 25 Sur # 6-27,4.57026874,-74.0939581
+750,bbva,Banco BBVA Centro Mayor,Calle 38A Sur # 34D-50,4.5921939943468875,-74.12419259548187
+751,bbva,Banco BBVA Aeropuerto Connecta 26,Calle 26 # 92-32,4.6980887,-74.1424471
+752,bbva,Banco BBVA Cajica,Carrera 6 # 4-17,4.59113424378964,-74.0781601615079
+753,bbva,Banco BBVA Plaza de las Américas,Transversal 71D # 06-94 Sur,4.619442789548298,-74.13515746593475
+754,bbva,Banco BBVA las ferias,Avenida Calle 72 # 68F-33,4.679739255,-74.08777234
+755,bbva,Banco BBVA Lourdes,Carrera 13 # 60-87,4.64699843,-74.06401183
+756,bbva,BBVA Carrera 9,Carrera 9 # 17-73,4.6053129576,-74.073728557
+757,bbva,Banco BBVA Quirigua,Transversal 94 # 80D-77,4.70782885,-74.10564245
+758,bbva,Banco BBVA 7 de Agosto,Carrera 24 # 67-25,4.65850954,-74.07005221
+759,bbva,BBVA Calle 22,Calle 22 # 29D-45 Sur,4.59390601082,-74.1124493358
+760,bbva,Banco BBVA Colina Campestre,Carrera 58 # 137B-04,4.72760089,-74.06449617
+761,bbva,Banco BBVA La Trinidad,Carrera 56 # 4A-36,4.6210717,-74.11827713
+762,bbva,Banco BBVA Cafam Floresta,Avenida Carrera 68 # 90-88,4.686442769203438,-74.07411575317383
+763,bbva,Banco BBVA Veinte de Julio,Carrera 9 # 30D-38Sur,4.568711982,-74.0992314
+764,bbva,Banco BBVA Unicentro,Avenida 15 # 123-30,4.702005036,-74.04274085
+765,bbva,Banco BBVA La estrada,Avenida Calle 72 # 69M-16,4.6833641,-74.0909153
+766,bbva,Banco BBVA Pepe Sierra,Avenida 19 # 118-30,4.69958515,-74.04970373
+767,bbva,Banco BBVA Plaza 67,Calle 67 # 7-35,4.65072906,-74.05843025
+768,bbva,BBVA Cajero Automatico Gran Estacion,Calle 26 # 62-47,4.6482026315656,-74.1004209156802
+769,bbva,Banco BBVA San Patricio,Avenida Carrera 19 # 104-52,4.691086562,-74.05105
+770,bbva,Banco BBVA Alcazares,Carrera 24 # 77-48,4.667686198,-74.06410657
+771,bbva,Banco BBVA Bosa,Calle 65Sur # 79C-5,4.606283984,-74.18429039
+772,bbva,Banco BBVA Terminal de Transporte,Calle 33B # 69-35,4.65652974,-74.11484592
+773,bbva,Banco BBVA Parque Nacional,Carrera 13 # 38-99,4.62726883,-74.06729751
+774,bbva,Banco BBVA Niza,Avenida Suba # 127-35,4.71181409,-74.07246196
+775,bbva,Banco BBVA Normandía,Calle 53 # 71C-30,4.6708475,-74.1062301
+776,bbva,BBVA Cajero Automático,Carrera 1 # 75-08 Sur,4.51447332,-74.1159627
+777,bbva,Banco BBVA Américas Outlet,Calle 9 # 62-84,4.62897597,-74.11897534
+778,bbva,Banco BBVA Unicentro Occidente,Carrera 111C # 86-05,4.723562415278765,-74.11441326141357
+779,bbva,Banco BBVA Toberín,Calle 166 # 21-68,4.74685117,-74.04478579
+780,bbva,Banco BBVA Cedritos,Calle 140 # 7C-94,4.71751558,-74.03189814
+781,bbva,Banco Corpbanca,Avenida 15 # 124-30,4.702824919,-74.04271075
+782,bbva,Banco BBVA Marly,Carrera 13 # 53-57,4.64040626,-74.06510924
+783,bbva,Banco BBVA Montevideo,Carrera 68 # 13-34,4.63919908,-74.11611174
+784,bbva,Banco BBVA Parque Baviera,Carrera 13 # 32-65,4.61974542,-74.06857161
+785,bbva,Banco BBVA El Polo,Calle 86A # 27-24,4.67505986,-74.06377541
+786,bbva,Banco BBVA World Trade,Carrera 9A # 99-02,4.68088959,-74.04201891
+787,bbva,Banco BBVA Ricaurte,Calle 13 # 27-05,4.61188237,-74.08952565
+788,bbva,Banco BBVA San Jose,Carrera 21 # 9-31,4.60514527,-74.08937874
+789,bbva,Banco BBVA Santa Lucía,Diagonal 46A Sur # 53-24,4.59373718,-74.13942797
+790,bbva,Banco BBVA Centro Internacional,Carrera 10 # 27-91 Piso 2,4.61494252,-74.06938542
+791,bbva,Banco BBVA Calle 3,Calle 3 # 1-39,4.704896,-74.229268
+792,bbva,Banco BBVA Puente Aranda,Calle 13 # 62-56,4.6337952,-74.11349786
+793,bbva,Banco BBVA Fontibón,Calle 17A # 99-73,4.67283582,-74.14509894
+794,bbva,Banco BBVA Puente Largo,Transversal 60 # 108-46,4.69504292,-74.06798525
+795,bbva,Banco BBVA CAN,Calle 26 # 59-41,4.6461735,-74.09939541
+796,bbva,Banco BBVA Calle 97,Calle 97 # 23-37,4.6846928,-74.05656581
+797,bbva,BBVA Avenida 15,Avenida 15 # 122-67,4.70124951,-74.04300828
+798,bbva,Banco BBVA Occidente,Calle 13 # 47-17 Piso 2,4.62521766,-74.10444063
+799,bbva,Banco BBVA Corferias,Carrera 40 # 24A-81,4.63190489,-74.09143399
+800,bbva,Banco BBVA Chapinero,Carrera 13 # 63-39,4.64957917,-74.06358402
+801,bbva,Banco BBVA Avenida El Dorado,Calle 26 # 59-41,4.646022189111544,-74.09977912902832
+802,bbva,Banco BBVA Ciudad Tunal,Calle 47B Sur # 24B-33,4.578280451806915,-74.13027048110962
+803,bbva,Cajero BBVA,Transversal 74F # 40-31 Sur,4.61722165291,-74.1530198382
+804,bbva,Banco BBVA Hacienda Santa Barbara,Calle 114 # 6A-92,4.69213205,-74.03280612
+805,bbva,Banco BBVA Galerias,Carrera 21 # 53-14,4.64150735417371,-74.0718367598146
+806,bbva,Banco BBVA Andino,Carrera 11 # 82-71,4.666548221646524,-74.0531998872757
+807,bbva,Banco BBVA Escuela Jose Maria Cordoba,Calle 80 # 38-22,4.674001718,-74.06909068
+808,bbva,Banco BBVA minibanco rama judicial,Carrera 10 # 14-33,4.602831652,-74.07643927
+809,bbva,Banco BBVA Minibanco Tintalito,Carrera 86 # 15A-91,4.65732079,-74.13816647
+810,bbva,Banco BBVA Premium Bogota,Carrera 11 # 82-01,4.66575551,-74.05300372
+811,bbva,Banco BBVA Minibanco Fiscalia,Diagonal 22B # 52-01,4.638616056,-74.09797493
+812,bbva,Banco BBVA Carrera Once,Carrera 10 # 9-97,4.59868812,-74.07895994
+813,bbva,Banco BBVA Usme,Carrera 1 # 65D-58Sur,4.530693,-74.118662
+814,bbva,BBVA Horizonte,Carrera 7 # 24-81,4.61056433,-74.07014139
+815,bbva,Banco BBVA Primera De Mayo,Carrera 10 # 20-08 Sur,4.57562759,-74.09458394
+816,bbva,Banco BBVA Santa Paula,Carrera 15 # 108A-33,4.691765627,-74.04406413
+817,bbva,Banco BBVA Modelia,Calle 24 # 74A- 59,4.66562348,-74.11955652
+818,bbva,Banco BBVA Tintal,Avenida Carrera 86 # 6-37,4.641845774,-74.1552434
+819,bbva,Banco BBVA  Calima,Avenida 19 # 28-80,4.617216562,-74.08685634
+820,bbva,Banco BBVA Kennedy,Transversal 74F # 40B-35 Sur,4.61702795,-74.15349041
+821,bbva,BBVA Carrera 65,Carrera 65 # 7-35,4.62639818,-74.12022667
+822,bbva,Banco BBVA Carvajal,Avenida 1 de Mayo # 69C-04,4.61473712,-74.13595657
+823,bbva,Banco BBVA Barrio Santander,Avenida 1 de Mayo # 32A-45,4.59377934,-74.11223597
+824,bbva,BBVA Diver Plaza,Calle 71B # 100-11,4.702403946,-74.11733021
+825,bbva,Banco BBVA Ext De Caja Almicarga,Calle 25D # 97-57,4.684541539,-74.12979961
+826,bbva,Banco BBVA Zona Franca Calle 13,Diagonal 16 # 104-51,4.673905646,-74.15286005
+827,bbva,Banco BBVA Parque central Bavaria,Calle 29 # 13-45,4.616453044,-74.06991486
+828,bbva,Banco BBVA Paloquemao,Calle 17 # 25-69,4.6133583,-74.08679497
+829,bbva,BBVA Unicentro,carrera 15 # 127-23,4.70471896706347,-74.0429131663914
+830,bbva,Banco BBVA Santafé,Calle 185 # 45-03,4.761599570457236,-74.04536247253418
+831,bbva,BBVA El Lago,Carrera 15 # 77-66,4.66399779,-74.05840373
+832,bbva,Banco BBVA Paralelo 108,Avenida Carrera 45 # 108-27,4.7140222,-74.0530076
+833,bbva,Banco BBVA Las aguas,Avenida Jimenez # 4-16,4.600574156,-74.07116926
+834,bbva,Banco BBVA Principal,Carrera 8 # 13-42,4.60074968,-74.07502277
+835,bbva,Banco BBVA Colseguros,Calle 17 # 9-20,4.60494996,-74.07395345
+836,bbva,Banco BBVA unisur,Carrera 3 # 29A-02,4.5163207,-74.1220251
+837,bbva,Banco BBVA Soacha,Carrera 4 # 14-22,4.5797165,-74.2170771
+838,bbva,Banco BBVA,Carrera 10 # 10-37,4.59906442573,-74.0784255437
+839,bbva,Cajero automático BBVA,Carrera 14B # 161-54,4.74025036991,-74.0356570224
+840,bbva,BBVA Seguros,Carrera 11 # 87-51 Local 5,4.67007824,-74.05003011
+841,bbva,BBVA Carrera 52,Carrera 52 # 137B-04,4.72762562,-74.06454939
+842,bbva,Banco BBVA San Andresito,Calle 9 # 37-40,4.61490661,-74.1015554
+843,bbva,Banco BBVA Antiguo Country,Calle 85 # 18-24,4.67098599,-74.05692427
+844,bbva,Banco BBVA Plaza Imperial,Carrera 104 # 148-07,4.749913325324661,-74.09548759460449
+845,bbva,Banco BBVA teleport,Calle 114 # 9-01,4.692196153,-74.03579069
+846,bbva,Banco BBVA Gran America,Carrera 33 # 25D-44,4.629518488,-74.08358707
+847,bbva,Banco BBVA Agencia Zona Franca,Carrera 106 # 15A-25,4.67171051,-74.15536607
+848,bbva,Cajero Automatico BBVA,Carrera 7 # 180-75,4.75754408343,-74.0254290323
+849,bbva,Banco BBVA Congreso de la republica,Carrera 7 # 8-68,4.59617403,-74.07647107
+850,bbva,Cajero Automatico BBVA,Calle 10 # 20-35,4.605477203,-74.08834154
+851,bbva,Banco BBVA Álamos,Carrera 89A # 62-00,4.62792001,-74.19428521
+852,bbva,Banco BBVA Restrepo,Calle 15 Sur # 20-23,4.58755517,-74.10070747
+853,bbva,Banco BBVA,Calle 13 # 15-97,4.717764,-74.213317
+854,bbva,Banco BBVA Las Nieves,Carrera 7 # 19-22,4.60540448,-74.07147867
+855,bbva,Banco BBVA Metro Sur,Carrera 73 # 52-12 Sur,4.60468568,-74.16578453
+856,bbva,BBVA Avenida Calle 72,Avenida Calle 72 # 81A-62,4.71266,-74.127529
+857,bbva,BBVA Seguros,Calle 43 # 9-62,4.63036,-74.065214
+858,bbva,BBVA Calle 43,Calle 43 # 9-62,4.63081931,-74.06612742
+859,bbva,Banco BBVA Agencia telefonica,Transversal 60 # 114A-55,4.698205938,-74.06970627
+860,bbva,Banco BBVA El Nogal,Carrera 15 # 74-36,4.66114952,-74.06015093
+861,bbva,Banco BBVA Bogota,Carrera 7 # 16-36,4.602858327,-74.07250349
+862,bbva,Banco BBVA Country,Calle 85 # 13-66,4.66925045,-74.05381307
+863,bbva,Banco BBVA Hayuelos,Calle 20 # 82-52,4.66273235,-74.13079139
+864,bbva,Banco BBVA indumil,Calle 44 # 50-92,4.643017502,-74.09063733
+865,bbva,Banco BBVA Corabastos,Carrera 80 # 2-51,4.63222892,-74.15414366
+866,bbva,Banco BBVA Contador,Avenida 19 # 138-30,4.72071187053353,-74.0466697367683
+867,bbva,Banco BBVA Ciudad Kennedy,Carrera 78K # 37A-80 Sur,4.62329311,-74.15394048
+868,bbva,Banco BBVA Calle 80,Calle 81 # 69-14,4.69385187,-74.08667328
+869,bbva,Banco BBVA Chapinero Alto,Carrera 7 # 51A-16,4.637938125,-74.06328082
+870,bbva,Banco BBVA Chicó Reservado,Carrera 11 # 94-64,4.67735759,-74.04598162
+871,bbva,Cajero BBVA El Parque,Carrera 7 # 12-54,4.581542,-74.21969
+872,bbva,Banco BBVA Avenida Jiménez,Avenida Jiménez # 8-65,4.60062823,-74.0754108
+873,bbva,Banco BBVA Quinta Avenida,Carrera 7 # 71-52,4.6541564,-74.05559595
+874,bbva,Banco BBVA Centro 93,Carrera 15 # 93-61,4.677516649,-74.05163119
+875,bbva,Banco BBVA Prado Veraniego,Calle 129 # 45A-05,4.71552966,-74.05360754
+876,bbva,Banco BBVA Kennedy Central,Carrera 78B # 26-24 Sur,4.62523043,-74.14781432
+877,bbva,Banco BBVA Centro Suba,Calle 145 # 91-19,4.737745734305473,-74.08512890338898
+878,scotiabank-colpatria,Scotiabank Colpatria Chicó,Calle 92 # 11-51,4.6733502,-74.0482444
+879,scotiabank-colpatria,Scotiabank Colpatria Salitre,Calle 22B # 59-60,4.64301338,-74.10320789
+880,scotiabank-colpatria,Scotiabank Colpatria Andino,Carrera 11 # 82-71,4.667104271495965,-74.05310332775115
+881,scotiabank-colpatria,Scotiabank Colpatria Exito Kennedy,Carrera 78K # 37A-53 Sur,4.623697355,-74.15380532
+882,scotiabank-colpatria,Scotiabank Colpatria Locatel Chapinero,Carrera 13 # 51-57,4.63848687,-74.06542226
+883,scotiabank-colpatria,Scotiabank Colpatria Centro,Carrera 7 # 16-36,4.60273583,-74.07266472
+884,scotiabank-colpatria,Scotiabank Colpatria Plaza de las Américas,Transversal 71D # 06-94 Sur,4.619442789548298,-74.13515746593475
+885,scotiabank-colpatria,Scotiabank Colpatria Paralelo 108,Calle 108 # 45-30,4.69547912,-74.05625969
+886,scotiabank-colpatria,Scotiabank Colpatria Paloquemao,Carrera 30 # 19,4.61952374,-74.08705096
+887,scotiabank-colpatria,Scotiabank Colpatria Kennedy,Transversal 73D # 39A-48 Sur,4.61719303,-74.15167863
+888,scotiabank-colpatria,Scotiabank Colpatria Santa Bárbara,Carrera 17 # 122-05,4.70124668,-74.0456083
+889,scotiabank-colpatria,Scotiabank Colpatria Rosales,Calle 72 # 5-83,4.65386195,-74.05422249
+890,scotiabank-colpatria,Scotiabank Colpatria Esperanza,Avenida La esperanza # 59-60,4.64477981,-74.10084881
+891,scotiabank-colpatria,Scotiabank Colpatria Calle 93,Carrera 11 # 93-61,4.67473474,-74.04752787
+892,scotiabank-colpatria,Scotiabank Colpatria 1 de Mayo,Avenida 1 de Mayo Calle 39 Sur,4.6172952,-74.15106804
+893,scotiabank-colpatria,Cajero Scotiabank Colpatria Unicentro,Carrera 15 # 127-23,4.70471896706347,-74.0429131663914
+894,scotiabank-colpatria,Scotiabank Colpatria Cedritos,Carrera 19 # 145-09,4.7268076,-74.04584431
+895,scotiabank-colpatria,Scotiabank Colpatria Avenida Chile,Calle 72 # 8-67,4.65569168,-74.05673514
+896,scotiabank-colpatria,Scotiabank Colpatria Metrópolis,Avenida Calle 68 # 75A-50,4.68038455,-74.08312849
+897,scotiabank-colpatria,Scotiabank Colpatria Calle 26,Calle 26 # 69-63,4.65795827,-74.1069863
+898,scotiabank-colpatria,Scotiabank Colpatria Locatel,Avenida Carrera 9 # 139-47,4.71721372,-74.032659
+899,scotiabank-colpatria,Scotiabank Colpatria Lourdes,Carrera 13 # 63-39,4.64957917,-74.06358402
+900,scotiabank-colpatria,Scotiabank Colpatria Calle 100,Carrera 9A # 99-02,4.68088959,-74.04201891
+901,scotiabank-colpatria,Scotiabank Colpatria Santafé,Calle 185 # 45-03,4.762572524280281,-74.04525518417358
+902,scotiabank-colpatria,Scotiabank Colpatria Avenida Jiménez,Calle 12C # 8-35 Local 101,4.60149111,-74.07492549
+903,scotiabank-colpatria,Cajero Scotiabank Colpatria,Calle 97 # 17-31,4.68304585990404,-74.0505586990899
+904,scotiabank-colpatria,Scotiabank Colpatria Hayuelos,Calle 20 # 82-52,4.66273235,-74.13079139
+905,scotiabank-colpatria,Scotiabank Colpatria Carrera 7,Carrera 7 # 113-43,4.69179823,-74.03401972
+906,scotiabank-colpatria,Scotiabank Colpatria Parque Nacional,Carrera 7 # 37-21,4.6249015,-74.06607435
+907,scotiabank-colpatria,Scotiabank Colpatria Restrepo,Carrera 20 # 15-15 Sur,4.58752475,-74.10067632
+908,scotiabank-colpatria,Cajero Automatico Scotiabank Colpatria Jumbo,Carrera 32 # 17B-04,4.61850722305,-74.0904866666
+909,scotiabank-colpatria,Scotiabank Colpatria Niza,Carrera 55A # 125B-20,4.71154098,-74.07391188
+910,scotiabank-colpatria,Scotiabank Colpatria Puente Aranda,Calle 13 # 65-71,4.63485277,-74.11555245
+911,scotiabank-colpatria,Scotiabank Colpatria Avenida El Dorado,Avenida El Dorado # 100-55,4.68804326,-74.12976549
+912,scotiabank-colpatria,Scotiabank Colpatria Parque Central Bavaria,Carrera 13 # 29-25,4.61619176,-74.06941917
