@@ -1,0 +1,178 @@
+index,direccion,localidad,latitud,longitud,farmacia
+1,Carrera 51 #49a-30 sur,Tunjuelito,4.6026291,-74.1268613,Audifarma
+2,Calle 140 #7-52,Usaquén,4.7167584,-74.0302363,Belmira Plaza Drogueria
+3,Carrera 15 #105-16,Usaquén,4.7079004,-74.0425154,Botica Junín
+4,Carrera 15 #83-08,Chapinero,4.6769435,-74.0518509,Botica Junín
+5,Avenida 7 #116-90,Usaquén,4.6890753,-74.0346063,Botica Junín
+6,Diagonal 44 sur #49-15,Tunjuelito,4.5758035,-74.1270945,Deprisa
+7,Carrera 72d #57a-83 sur,Bosa,4.6011843,-74.1666331,Drogas - Drogas
+8,Carrera 72d #56d-04 sur,Bosa,4.6020759,-74.1663573,Drogas Capital
+9,Calle 80 #85-08,Engativá,4.683211999999999,-74.0802781,Drogas Comunitaria
+10,Carrera 9 #15-95,Santa Fé,4.6062819,-74.0731118,Drogas Hiperrebaja
+11,Calle 19 #4-37,Santa Fé,4.6027353,-74.0676262,Drogas La Economía
+12,Calle 53 #24-37,Teusaquillo,4.6501497999999994,-74.0730794,Drogas La Economía
+13,Carrera 6 #25-43 sur,San Cristóbal,4.5660215,-74.0983443,Drogas La Economía
+14,Carrera 51 #45-20 sur,Tunjuelito,4.5940397,-74.1378103,Drogas La Economía
+15,Carrera 5a #27-10 sur,San Cristóbal,4.5717192,-74.0914676,Drogas La Economía
+16,Carrera 5a #27-18 sur,San Cristóbal,4.5717192,-74.0914676,Drogas La Economía
+17,Carrera 6 #26-08 sur,San Cristóbal,4.5660215,-74.0983443,Drogas La Rebaja
+18,Carrera 13 #26-81,Santa Fé,4.5987105,-74.0827874,Drogas La Rebaja
+19,Calle 13 #39-10,Puente Aranda,4.6213227,-74.0994161,Drogas La Rebaja
+20,Carrera 6 #26-23 sur,San Cristóbal,4.5660215,-74.0983443,Drogas La Rebaja
+21,Carrera 4 #18-72,Santa Fé,4.6101289,-74.0661859,Drogas La Rebaja
+22,Carrera 21 #15-04 sur,Antonio Nariño,4.5883323,-74.1008392,Drogas La Rebaja
+23,Carrera 7 #124-15,Usaquén,4.6890193,-74.0344219,Drogas La Rebaja
+24,Diagonal 50 sur #51-02,Tunjuelito,4.5906307,-74.1386806,Drogas La Rebaja
+25,Carrera 24 #51-90,Teusaquillo,4.6224794,-74.0767276,Drogas La Rebaja
+26,Carrera 75 #23g-35,Fontibón,4.6509111,-74.1306664,Drogas La Rebaja
+27,Calle 80 #73a-28,Engativá,4.6832119,-74.0802781,Drogas Lisahi
+28,Carrera 24 #47-70,Teusaquillo,4.6224794,-74.0767276,Drogas Palermo
+29,Calle 80 #76d-22,Engativá,4.6832119,-74.0802781,Drogas Pepe
+30,Carrera 105G #64B-24,Engativá,4.7068414,-74.1216312,Drogas Roodi
+31,Carrera 24 #50-92,Teusaquillo,4.6224794,-74.0767276,Drogas Scottr
+32,Calle 57b sur #71d-72,Bosa,4.6227446,-74.1854192,Drogas Surbana
+33,Calle 57 Sur #70-94 Sur,Bosa,4.6004117,-74.1550561,Drogas Villa
+34,Carrera 10 #53-00 Sur,Tunjuelito,4.5584393,-74.1227761,Drogas y Variedades Dimayer
+35,Carrera 15 #122-09,Usaquén,4.7079004,-74.0425154,Droguería Alemana
+36,Avenida Calle 24 #74a-64,Fontibón,4.6657491,-74.1198407,Droguería Angélica 2
+37,Carrera 15 #95-08,Chapinero,4.6809744,-74.0495881,Droguería Cafam
+38,Carrera 15 #90-20 Local 112,Chapinero,4.6746189,-74.0528106,Droguería Cafam
+39,Avenida 7 #119-18,Usaquén,4.6907748,-74.0341986,Droguería Cafam
+40,Avenida Calle 13 #28-53,Mártires,4.6090103,-74.085722,Droguería Calle 13
+41,Carrera 69 #25-55,Fontibón,4.6506302,-74.1159171,Droguería Clister
+42,Carrera 15 #116-36,Usaquén,4.7079004,-74.0425154,Droguería Colombia Farma
+43,Carrera 10 #28-31,Santa Fé,4.6155502,-74.0694293,Droguería Colsubsidio
+44,Portal 80,Engativá,4.7195485,-74.1192265,Droguería Colsubsidio
+45,Unicentro,Usaquén,4.7237654,-74.1149092,Droguería Colsubsidio
+46,Carrera 15 #108-09,Usaquén,4.6923184,-74.0452632,Droguería Colsubsidio
+47,Calle 27 sur #5-72,San Cristóbal,4.5690758,-74.0941989,Droguería Colsubsidio
+48,Niza,Suba,4.7116623,-74.0738168,Droguería Colsubsidio
+49,Calle 19 #5-21,Santa Fé,4.6043503,-74.0704565,Droguería Colsubsidio
+50,Calle 3 sur #71c-19 L103/02,Kennedy,4.6201860,-74.1362452,Droguería Colsubsidio
+51,Avenida 19 #114-52,Usaquén,4.6864347,-74.0525668,Droguería Colsubsidio
+52,Carrera 15 #119-48,Usaquén,4.7079004,-74.0425154,Droguería Colsubsidio
+53,Carrera 24 #53-22,Teusaquillo,4.6224794,-74.0767276,Droguería Colsubsidio
+54,Carrera 51 #47a-30 sur,Tunjuelito,4.5922223,-74.1381596,Droguería Colsubsidio
+55,Calle 57 sur #63-27,Bosa,4.6306497,-74.1899498,Droguería Covimar
+56,Avenida 7 #186-07,Usaquén,4.6890753,-74.0346063,Drogueria de la Noche
+57,Carrera 24 #45a-29,Teusaquillo,4.6224794,-74.0767276,Droguería de productos de medicina biológica
+58,Carrera 69 #24a-39,Fontibón,4.6506302,-74.1159171,Droguería del Llano
+59,Carrera 71 #79A-92 -,Engativá,4.688517,-74.0916403,Droguería Diamante
+60,Avenida Caracas #12-38,Mártires,4.5919311,-74.0891833,Droguería Fagar de los Llanos
+61,Niza,Suba,4.7118788,-74.0738517,Droguería Fava
+62,Avenida 1 de Mayo #69b-61,Kennedy,4.6145654,-74.1361575,Drogueria Gran Colombia
+63,Calle 100 #61-83,Barrios Unidos,4.6836073,-74.0577624,Droguería La 100
+64,Calle 100 #61-83,Barrios Unidos,4.6836073,-74.0577624,Droguería La 100
+65,Carrera 15 #106-47,Usaquén,4.7079004,-74.0425154,Droguería la 109
+66,Carrera 15 #102-87,Usaquén,4.7079004,-74.0425154,Droguería la 109
+67,Calle 100 #68a-97,Suba,4.6897188,-74.0718125,Droguería La Floresta
+68,Carrera 15 #124-75,Usaquén,4.7079004,-74.0425154,Droguería La Rebaja
+69,Avenida Primera de Mayo #19B-07 Sur,San Cristóbal,Droguería la Rebaja Avenida Primera de Mayo con 19
+70,Calle 129 #58C-30,Usaquén,4.7077932,-74.0289862,Droguería la Rebaja Calle 129
+71,Calle 129 #45A-66,Suba,4.7393636,-74.1167599,Droguería la Rebaja Calle 129 con 45
+73,Carrera 77 #69A-15,Engativá,4.6921366,-74.0904587,Droguería la Rebaja Carrera 77A
+74,Avenida Suba #188-91,Suba,4.7239041,-74.0746955,Droguería la Rebaja Niza
+75,Transversal 94 #80A-03,Engativá,4.7061794,-74.1079251,Droguería la Rebaja Quirigua
+76,Calle 68 #51-44,Barrios Unidos,4.6550771,-74.0635217,Droguería la Rebaja San Fernando
+77,Carrera 15 #118-10,Usaquén,4.7083466,-74.042699,Droguería La Rebaja Santa Bárbara
+78,Calle 1F #27-03,Mártires,4.5958792,-74.0960128,Droguería la Rebaja Santa Isabel
+79,Calle 57 sur #68-15,Bosa,4.6306497,-74.1899498,Droguería Lina
+80,Carrera 9 #3C-13,Municipios Aledaños,4.5918681,-74.0816957,Drogueria Manantial de Salud
+81,Carrera 67 #60A-28 Sur,Ciudad Bolívar,4.5901203,-74.1573288,Droguería Medipos
+82,Calle 61A Sur #98C-27,Bosa,4.6132189,-74.1864036,Droguería Multidrogas
+83,Calle 127C #3-60 - Loc. 12,Usaquén,4.7051609, -74.0242736,Drogueria New Farma 127
+84,Calle 27 sur #8-06,San Cristóbal,4.5652751,-74.0838958,Droguería Nuevo Continente
+85,Portal 80,Engativá,4.7110571,-74.1118388,Drogueria Rosas
+86,Calle 66A #97-38,Engativá,4.6750847,-74.0911205,Droguería Sanus
+87,Calle 53 #15-70,Teusaquillo,4.6403673,-74.0663371,Droguería Social
+88,Carrera 24 #52-66,Teusaquillo,4.6224794,-74.0767276,Droguería Social
+89,Carrera 51 #45-09 sur,Tunjuelito,4.6461131,-74.08792390,Droguería Social
+90,Carrera 68a #100-10,Suba,4.6891394,-74.0717112,Droguería Tayrona
+91,Avenida 19 #102-71,Usaquén,4.687756,-74.051754,Droguería Ultramar
+92,Carrera 15 #92-38,Chapinero,4.6769435,-74.0518509,Droguería Ultramar
+93,Carrera 15 #85-20,Chapinero,4.6769435,-74.0518509,Droguería Ultramar
+94,Calle 15 #79-35,Chapinero,4.6194389,-74.0956770,Droguería Unilagos 86
+95,Calle 57 sur #64-62,Bosa,4.6306497,-74.1899498,Droguería Villa Rous
+96,Calle 140 #9-36,Usaquén,4.7167584,-74.0302363,Droguería Visión Vivir
+97,Calle 100 #14-83,Chapinero,4.6700523,-74.0203046,Droguería y Papelería
+98,Carrera 103A #130-00,Suba,4.7584856,-74.0894727,Droguerias Farmasuba
+99,Carrera 24 #45-99,Teusaquillo,4.6224794,-74.0767276,Droguerías Acuña
+100,Carrera 15 #112-46 Local 104,Usaquén,4.6950457,-74.0431395,Droguerías Acuña
+101,Carrera 51 #49-28 sur,Tunjuelito,4.5914911,-74.1383805,Droguerías Acuña
+102,Calle 13 #17-97,Mártires,4.6090103,-74.085722,Droguerías Acuña
+103,Salitre Plaza,Fontibón,4.6531782,-74.1093347,Droguerías Acuña
+104,Unicentro de Occidente,Engativá,4.7237889,-74.1141125,Droguerías Acuña
+105,Carrera 69d #24-53,Fontibón,4.6575296,-74.1134488,Droguerías Ecopharma
+106,Carrera 121 #63D-18,Engativá,4.712212,-74.1444661,Droguerías Galáctica
+107,Calle 3A sur #71C-19 Home Sentry,Kennedy,4.6202743,-74.1369937,Droguerias Ley 100
+108,Avenida 7 #120a-32,Usaquén,4.6976658,-74.0305596,Droguerías Ley 100
+109,Carrera 69 #24C-51 - Local 01,Fontibón,4.6564645,-74.1089554,Droguerías Ley 100
+110,Avenida El Dorado #69a-51 Local A 109,Fontibón,4.6600884,-74.1086305,Drug Store
+111,Carrera 50 #40-05 sur,Puente Aranda,4.6062477,-74.1192135,Farmacenter
+112,Salitre Plaza,Fontibón,4.6533259,-74.1098630,Farmacia Rosas
+113,Carrera 13 #27-08,Santa Fé,4.5987105,-74.0827874,Farmacity
+114,Carrera 15 #106-18,Usaquén,4.7079004,-74.0425154,Farmacity
+115,Calle 93a #13-47,Chapinero,4.6755929,-74.046905,Farmacity
+116,Calle 119 #7-03,Usaquén,4.6944932,-74.0282983,Farmacity
+117,Carrera 25 #39A-41,Teusaquillo,4.6297285,-74.0763617,FarmaPOS Ltda
+118,Calle 23f #75-21,Fontibón,4.6654735,-74.1209969,Farmasalud
+119,Avenida 19 #103-35,Usaquén,4.687756,-74.051754,FarmaSanitas
+120,Autonorte #22-64,Chapinero,4.6899285,-74.0573211,Farmasanitas
+121,Transversal 24 #40-24,Teusaquillo,4.6480633,-74.0735279,Farmasanitas
+122,Avenida de las Américas #59-17,Puente Aranda,4.6189014,-74.0971272,Farmasanitas
+123,Transversal 22 #98-82,Chapinero,4.6859477,-74.0554149,Farmasanitas
+124,Diagonal 127 #21-60 - Local 101,Usaquén,4.7066224,-74.0516557,Farmasanitas
+125,Calle 49 #13-33 - Int 6,Chapinero,4.6364522,-74.066917,Farmasanitas
+126,Plaza Comercial Primavera,Engativá,4.7046898,-74.1036358,Farmasanitas
+127,Calle 99 #13a-15,Chapinero,4.6794374,-74.0393625,Farmasanitas
+128,Calle 163a #13b-60,Usaquén,4.7394885,-74.0275939,Farmasanitas
+129,Calle 152 #19-44,Usaquén,4.7337493,-74.0444334,Farmasanitas
+130,Diagonal 3b #42-12,Puente Aranda,4.6277530,-74.1156088,Farmasanitas
+131,Carrera 16 #82-57,Chapinero,4.6782285,-74.0521485,Farmasanitas
+132,Calle 16 #6-66 - Piso 2 - Edificio Avianca,Santa Fé,4.6025308,-74.0724981,Farmasanitas
+133,Avenida 13 #124-60,Usaquén,4.7176798,-74.0459793,Farmasanitas
+134,Calle 44 #13-96,Chapinero,4.6314029,-74.0664616,Farmasanitas
+135,Carrera 23 #45c-31,Teusaquillo,4.6361939,-74.0742317,Farmasanitas
+138,Calle 140 #7b-23 - Loc 102,Usaquén,4.7170799,-74.0305553,Farmasanitas
+139,Carrera 7 #57-68,Chapinero,4.6757706,-74.0409691,Farmasanitas
+140,Calle 23 #66-46 - Piso 1 y 2,Teusaquillo,4.6482057,-74.1062181,Farmasanitas
+141,Calle 140 #88-76,Suba,4.7462654,-74.1074851,Farmasanitas
+142,C.C. Ciudad Tunal #Ent. 7 - Piso 3 - Local 311,Tunjuelito,4.5776668,-74.1299846,Farmasanitas
+143,Carrera 6 #21a-47 sur,San Cristóbal,4.5660215,-74.0983443,Gran Drogas Bogotá EW
+144,Calle 15 #82-09,Chapinero,4.6677077,-74.0566030,Hiperdroguería El Lago
+145,Carrera 7 #140-40,Usaquén,4.6890193,-74.0344219,Hiperdrogueria Montearroyo
+146,Carrera 75 #25c-21,Fontibón,4.6509111,-74.1306664,Hiperdroguería Servir
+147,Carrera 51 #49-06 sur,Tunjuelito,4.5914460,-74.1383119,Hiperpharma
+148,Carrera 7 #116-90,Usaquén,4.6890193,-74.0344219,La Rebaja Drogueria
+149,Carrera 15 #122-59,Usaquén,4.7079004,-74.0425154,La Rebaja Plus
+150,Calle 15 #80-86/88,Chapinero,4.6688251,-74.0557934,La Rebaja Plus Minimarket
+151,Plaza 102,Usaquén,4.6879003,-74.0519816,Marketpharmacy
+152,Carrera 38 #97-76 local 127 Centro Comercial Iserra 100,Barrios Unidos,4.6879467,-74.0645497,Medical Farma Express
+153,Calle 22 F #107 - 64,Fontibón,4.6764011,-74.1404661,Medimarkas
+154,Carrera 68 #97-30,Suba,4.7555079,-74.0639852,Mercadroguería Cafam
+155,Carrera 15 #100-89,Usaquén,4.7079004,-74.0425154,Multidrogas
+156,Carrera 51 #48-00 sur,Tunjuelito,4.5920431,-74.1382494,Nacional de Drogas
+157,Calle 13 #18-41,Mártires,4.6090103,-74.085722,Pañalera y droguería Angela
+158,Unicentro,Usaquén,4.7026721,-74.0453202,Pharmaskin
+159,Carrera 18 #116-20 - Of. 401,Usaquén,4.6982021,-74.0474427,PideFarma
+160,Carrera 6 #24-72 sur,San Cristóbal,4.5660215,-74.0983443,Real de Drogas
+161,Carrera 21 #13-59 sur,Antonio Nariño,4.5890924,-74.1000753,Super droguería Restrepo
+162,Carrera 96C #19-36,Fontibón,4.6697475,-74.1395457,Superdescuentos de la 96
+163,Calle 24a #68c-66,Fontibón,4.6534389,-74.1093391,Superdrogas 1A
+164,Carrera 72d #56b-31 sur,Bosa,4.6023647,-74.1662285,Superdroguería Olarte
+165,Niza,Suba,4.7112299,-74.0737643,Superdroguería Olímpica Niza
+166,Carrera 15 #118-90/94,Usaquén,4.6986437,-74.0427828,Superdroguería Olímpica Santa Bárbara
+167,Carrera 15 #97-48,Chapinero,4.6769435,-74.0518509,Superfarmacia Colsubsidio
+168,Carrera 20 #14-48 sur,Antonio Nariño,4.5879449,-74.1003076,Superpharma
+169,Avenida 7 #117-18,Usaquén,4.6948059,-74.0328053,Superpharma
+170,Carrera 7 #27-72,Santa Fé,4.6147082,-74.0691791,Superpharma
+171,Carrera 24 #63 F-55,Engativá,4.6561693,-74.0717032,Supertienda Olímpica 7 de Agosto
+172,Palatino,Usaquén,4.7156035,-74.0292305,Supertienda Olímpica C.C Palatino
+173,Carrera 55 #169 A - 55,Suba,4.7539937,-74.0586144,Supertienda Olímpica Calle 170
+174,Calle 95 #31-01,Barrios Unidos,4.6838988,-74.0606628,Supertienda Olímpica Castellana
+175,Calle 140 #23-61,Usaquén,4.7204253,-74.0394658,Supertienda Olímpica Cedritos
+176,Calle 72 #13-85,Chapinero,4.6583351,-74.0608712,Supertienda Olímpica Cll 72
+177,Calle 138 #52-03,Suba,4.7249766,-74.0556214,Supertienda Olímpica Colina Campestre
+178,Calle 64 #11-05,Chapinero,4.6504681,-74.0628266,Supertienda Olímpica Cosmo 64
+179,Calle 35 Sur #80-35,Usaquén,4.6266967,-74.1515134,Supertienda Olímpica Kennedy 2
+180,Calle 68 A #90A - 31,Engativá,4.6936564,-74.1125362,Supertienda Olímpica Calle 170
