@@ -1,0 +1,150 @@
+Shape,objectid,numero_estación,nombre_estación,ubicación,troncal_estación,numero_vagones,numero_accesos,biciestación,capacidad,tipo estación,biciparqueadero,latitud,longitud,last_edi_1,Localidad
+Point,1,2205,Calle 106,Calle 106,Autonorte,4,1,0,0,4,0,4.692982,-74.056178,2021-09-27,Usaquén
+Point,2,2000,Portal del Norte,Calle 173,Autonorte,0,0,0,0,1,0,4.754621,-74.046035,2021-09-27,Usaquén
+Point,3,7108,AV. El Dorado,Kr 30 Av 28,NQS,1,1,0,0,4,0,4.630663,-74.079866,2021-09-27,Teusaquillo
+Point,4,2204,Pepe Sierra,Calle 116,Autonorte,2,1,0,0,4,0,4.698125,-74.055298,2021-09-27,Usaquén
+Point,5,2103,Mazurén,Calle 152,Autonorte,5,1,0,0,4,0,4.734585,-74.049218,2021-09-27,Usaquén
+Point,6,4106,Carrera 47,Carrera 46,Calle 80,1,1,0,0,4,0,4.678006,-74.073641,2021-09-27,Barrios Unidos
+Point,7,7113,Santa Isabel,Kr 30 Av 3,NQS,2,1,0,0,4,0,4.601667,-74.102611,2021-09-27,Puente Aranda
+Point,8,2202,Calle 127,Calle 127,Autonorte,2,1,0,0,4,0,4.704641,-74.054229,2021-09-27,Usaquén
+Point,9,7006,General Santander,AutoSur-Kr43,NQS,4,1,1,48,2,1,4.593569,-74.129545,2021-09-27,Puente Aranda
+Point,10,4003,AV. Cali,Carrera 86,Calle 80,1,1,0,0,2,0,4.702486,-74.100288,2021-09-27,Engativá
+Point,11,2303,Calle 85,Calle 85,Autonorte,4,1,0,0,4,0,4.672315,-74.05964,2021-09-27,Chapinero
+Point,12,2105,Calle 142,Calle 142,Autonorte,4,1,0,0,4,0,4.726851,-74.05051,2021-09-27,Usaquén
+Point,13,7004,Venecia,AutoSur-Av 54,NQS,2,1,0,0,4,0,4.595567,-74.14265,2021-09-27,Kennedy
+Point,14,7107,U. Nacional,Kr 30 Cl 45,NQS,3,2,0,0,4,0,4.637119,-74.079321,2021-09-27,Teusaquillo
+Point,15,7109,CAD,Kr 30 Cl 26,NQS,2,2,0,0,4,0,4.62341,-74.084167,2021-09-27,Los Mártires
+Point,16,2302,Virrey,Calle 90,Autonorte,3,1,0,0,4,0,4.675994,-74.059012,2021-09-27,Chapinero
+Point,17,4105,Carrera 53,Carrera 53,Calle 80,1,1,0,0,4,0,4.681821,-74.077401,2021-09-27,Barrios Unidos
+Point,18,4002,Carrera 90,Carrera 90,Calle 80,1,1,0,0,4,0,4.704682,-74.104562,2021-09-27,Engativá
+Point,19,7102,NQS - Calle 75,Kr 30 - Cl 75A,NQS,4,1,0,0,4,0,4.670156,-74.07131,2021-09-27,Barrios Unidos
+Point,20,7104,Simón Bolívar,Kr 30 CL 63,NQS,2,1,0,0,4,0,4.657291,-74.077663,2021-09-27,Barrios Unidos
+Point,21,4000,Portal de la 80,Carrera 96,Calle 80,0,0,1,353,1,1,4.709829,-74.110506,2021-09-27,Engativá
+Point,22,9118,Marly,Calle 51 - Calle 49,Caracas,3,2,0,0,4,0,4.637557,-74.066769,2021-09-27,Chapinero
+Point,23,9120,Calle 63,Calle 63 - Calle 60,Caracas,3,2,0,0,4,0,4.648404,-74.064862,2021-09-27,Chapinero
+Point,24,7009,SENA,AutoSur-Cl 17 S,NQS,2,1,0,0,4,0,4.597371,-74.110643,2021-09-27,Puente Aranda
+Point,25,7000,Portal del Sur,AutoSur-Kr 82,NQS,0,0,1,220,1,1,4.597013,-74.169398,2021-09-27,Bosa
+Point,26,7111,Ricaurte - NQS,Kr 30 Cl 10,NQS,3,2,1,165,3,1,4.611686,-74.093869,2021-09-27,Puente Aranda
+Point,27,2200,Alcalá,Calle 137,Autonorte,3,2,0,0,4,0,4.721157,-74.051454,2021-09-27,Usaquén
+Point,28,9122,Calle 72,Calle 72 - Calle 70A,Caracas,3,2,0,0,4,0,4.658239,-74.062069,2021-09-27,Chapinero
+Point,29,2104,Calle 146,Calle 146,Autonorte,3,1,0,0,4,0,4.730893,-74.049822,2021-09-27,Usaquén
+Point,30,4104,AV. 68,Carrera 60,Calle 80,1,1,0,0,4,0,4.685726,-74.080469,2021-09-27,Engativá
+Point,31,2201,Prado,Calle 128 B,Autonorte,3,1,0,0,4,0,4.71456,-74.052567,2021-09-27,Usaquén
+Point,32,5100,Banderas,Av. Americas -Carrera 78,Americas,0,2,1,101,2,1,4.631301,-74.145769,2021-09-27,Kennedy
+Point,33,4101,Minuto de Dios,Carrera 73 A,Calle 80,1,1,0,0,4,0,4.696655,-74.091482,2021-09-27,Engativá
+Point,34,3001,La Campiña,Av Suba Kr 98A,Suba,2,1,0,0,4,0,4.742543,-74.091056,2021-09-27,Suba
+Point,35,2001,Calle 187,Calle 184,Autonorte,4,1,0,0,4,0,4.76333,-74.044404,2021-09-27,Usaquén
+Point,36,2502,Terminal,Calle 190,Autonorte,4,1,0,0,4,0,4.768818,-74.043569,2021-09-27,Usaquén
+Point,37,9117,Calle 45,Calle 45 - Calle 42A,Caracas,3,2,0,0,4,0,4.631452,-74.067869,2021-09-27,Chapinero
+Point,38,7110,Paloquemao,Kr 30 Cl 19,NQS,2,1,0,0,4,0,4.616916,-74.089545,2021-09-27,Puente Aranda
+Point,39,6102,Salitre - El Greco,Carrera 66,Calle 26,4,1,0,0,4,0,4.650869,-74.101645,2021-09-27,Teusaquillo
+Point,40,9103,Olaya,Calle 24 Sur - Calle 27 Su,Caracas,2,1,0,0,4,0,4.578909,-74.107361,2021-09-27,Rafael Uribe Uribe
+Point,41,8000,Portal del Tunal,Av. Boyaca,Tunal,0,0,0,0,1,0,4.569571,-74.13924,2021-09-27,Tunjuelito
+Point,42,2304,Héroes,Calle 80,Autonorte,6,1,0,0,4,0,4.668136,-74.060312,2021-09-27,Chapinero
+Point,43,14005,Las Aguas,carrera 4,Eje Ambiental,1,2,0,0,3,0,4.60258,-74.068401,2021-09-27,Santa Fe
+Point,44,14004,Museo del Oro,carrera 2,Eje Ambiental,1,2,0,0,4,0,4.601161,-74.072898,2021-09-27,Santa Fe
+Point,45,4108,Polo,Transversal 27,Calle 80,1,1,0,0,4,0,4.670693,-74.064749,2021-09-27,Barrios Unidos
+Point,46,9123,Calle 76,Calle 76 - Calle 74,Caracas,3,2,0,0,4,0,4.66303,-74.06126,2021-09-27,Chapinero
+Point,47,9115,Calle 34,Avenida Calle 34 - Calle 3,Caracas,3,2,0,0,4,0,4.621586,-74.069754,2021-09-27,Teusaquillo
+Point,48,7005,Alquería,AutoSur-Kr48,NQS,2,1,0,0,4,0,4.594258,-74.134271,2021-09-27,Puente Aranda
+Point,49,9106,Nariño,Calle 8 Sur - Calle 11 Sur,Caracas,2,1,0,0,4,0,4.586286,-74.093926,2021-09-27,Antonio Nariño
+Point,50,3010,Puentelargo,Av Suba Tv 48,Suba,2,1,0,0,4,0,4.693291,-74.067141,2021-09-27,Suba
+Point,51,2300,Calle 100,Calle 97,Autonorte,3,2,0,0,4,0,4.683947,-74.057696,2021-09-27,Chapinero
+Point,52,5002,Biblioteca Tintal,av.Cali - Calle 26 sur,Americas,4,2,0,0,4,0,4.637899,-74.159345,2021-09-27,Kennedy
+Point,53,3002,Suba - TV. 91,Av Suba Kr 90,Suba,2,1,0,0,4,0,4.738833,-74.086874,2021-09-27,Suba
+Point,54,9100,Calle 40 S,Calle 38 Sur - Calle 40 Su,Caracas,3,2,0,0,2,0,4.575854,-74.120094,2021-09-27,Rafael Uribe Uribe
+Point,55,7002,Centro Comercial Paseo Villa del Río - Madelena,AutoSur-Kr67,NQS,2,1,0,0,4,0,4.596255,-74.156875,2022-01-19,Ciudad Bolivar
+Point,56,9121,Flores,Calle 69  - Calle 67,Caracas,2,2,0,0,4,0,4.654906,-74.063021,2021-09-27,Barrios Unidos
+Point,57,9119,Calle 57,Calle 57 - Calle 54,Caracas,3,2,0,0,4,0,4.642982,-74.065822,2021-09-27,Chapinero
+Point,58,6001,Modelia,Carrera 84,Calle 26,4,1,0,0,4,0,4.675044,-74.117117,2021-09-27,Engativá
+Point,59,9114,Calle 26,Avenida Calle 28 - Calle 2,Caracas,3,2,0,0,4,0,4.616645,-74.072152,2021-09-27,Santa Fe
+Point,60,7001,Perdomo,AutoSur-Kr78C,NQS,2,1,0,0,4,0,4.595776,-74.164971,2021-09-27,Bosa
+Point,61,7103,AV. Chile,Kr 30 Cl 72,NQS,6,2,0,0,4,0,4.666341,-74.074562,2021-09-27,Barrios Unidos
+Point,62,6104,Gobernación,Carrera 54,Calle 26,4,1,0,0,4,0,4.642845,-74.096514,2021-09-27,Teusaquillo
+Point,63,9104,Restrepo,Calle 19 Sur - Av. 1 de M,Caracas,2,2,0,0,4,0,4.581834,-74.10142,2021-09-27,Antonio Nariño
+Point,64,6101,El Tiempo - Maloka,carrera 68d,Calle 26,4,1,0,0,4,0,4.657081,-74.105625,2021-09-27,Engativá
+Point,65,9107,Hortúa,Calle 1 Sur - Calle 3 Sur,Caracas,2,2,0,0,4,0,4.59084,-74.090238,2021-09-27,Antonio Nariño
+Point,66,12002,CDS - Carrera 32,Av. Americas -Carrera 32,Americas,2,2,0,0,4,0,4.616133,-74.093953,2021-09-27,Puente Aranda
+Point,67,9110,AV. Jiménez - CL 13,Calle 13 - caracas,Americas,3,2,0,0,3,0,4.603048,-74.079109,2021-09-27,Santa Fe
+Point,68,5001,Patio Bonito,av.Cali - Calle 40 sur,Americas,4,2,0,0,4,0,4.633172,-74.164606,2021-09-27,Kennedy
+Point,69,3009,Suba - Calle 116,Av Suba Cll 114,Suba,2,1,0,0,4,0,4.69924,-74.069839,2021-09-27,Suba
+Point,70,6002,Normandía,carrera 73a,Calle 26,4,1,0,0,4,0,4.669021,-74.11326,2021-09-27,Engativá
+Point,71,4100,Granja - Carrera 77,Carrera 77 Bis,Calle 80,3,2,0,0,2,0,4.699148,-74.096016,2021-09-27,Engativá
+Point,72,5000,Portal de las Américas,av.Cali - Calle 43 sur,Americas,0,0,1,785,1,1,4.629381,-74.173058,2021-09-27,Kennedy
+Point,73,6106,Recinto Ferial,Carrera 43,Calle 26,2,1,0,0,4,0,4.634314,-74.089694,2021-09-27,Teusaquillo
+Point,74,6105,Quinta Paredes,Carrera 47,Calle 26,4,1,1,48,4,1,4.637522,-74.093104,2021-09-27,Teusaquillo
+Point,75,7008,NQS - Calle 30 S,AutoSur-Dg 26 Sur,NQS,2,1,0,0,4,0,4.594792,-74.117879,2021-09-27,Puente Aranda
+Point,76,3005,Suba - AV. Boyacá,Av Suba Av Boyaca,Suba,2,2,0,0,4,0,4.721362,-74.074727,2021-09-27,Suba
+Point,77,4107,Escuela Militar,Carrera 40,Calle 80,2,1,0,0,4,0,4.675456,-74.06966,2021-09-27,Barrios Unidos
+Point,78,12007,Zona Industrial,calle 13 carrera 38,Americas,2,2,0,0,4,0,4.620322,-74.098689,2021-09-27,Puente Aranda
+Point,79,9004,Santa Lucía,Calle 46A Sur - Diagonal 4,Caracas,2,2,0,0,4,0,4.570964,-74.124695,2021-09-27,Rafael Uribe Uribe
+Point,80,7506,La Despensa,soacha,Soacha,2,1,0,0,4,0,4.594601,-74.188116,2021-09-27,
+Point,81,2101,Toberín,Calle 165,Autonorte,5,1,0,0,4,0,4.746188,-74.047269,2021-09-27,Usaquén
+Point,82,3014,San Martín,Av Suba Cl 81,Suba,2,1,0,0,4,0,4.676542,-74.067066,2021-09-27,Barrios Unidos
+Point,83,7101,La Castellana,KR 30 Kr 24,NQS,4,1,0,0,4,0,4.675619,-74.064448,2021-09-27,Barrios Unidos
+Point,84,7112,Comuneros,KR 30 -Cl 6A,NQS,2,2,0,0,4,0,4.604246,-74.099857,2021-09-27,Los Mártires
+Point,85,2102,Calle 161,Calle 160,Autonorte,4,1,0,0,4,0,4.741913,-74.047986,2021-09-27,Usaquén
+Point,86,7106,Campín,Kr 30 Cl 53,NQS,2,2,0,0,4,0,4.645396,-74.078699,2021-09-27,Teusaquillo
+Point,87,6103,CAN,Carrera 60,Calle 26,4,1,0,0,4,0,4.646881,-74.099048,2021-09-27,Teusaquillo
+Point,88,3000,Portal de Suba,Av Suba Av C. Cali,Suba,0,0,1,324,1,1,4.746815,-74.094279,2021-09-27,Suba
+Point,89,9105,Fucha,Calle 13 Sur - Calle 16 Su,Caracas,2,1,0,0,4,0,4.582964,-74.099398,2021-09-27,Antonio Nariño
+Point,90,7201,Guatoque - Veraguas,Carrera 27,Calle 6,4,2,0,0,4,0,4.604179,-74.094927,2021-09-27,Los Mártires
+Point,91,7200,Tygua - San José,Carrera 18,Calle 6,4,2,0,0,4,0,4.599783,-74.088764,2021-09-27,Los Mártires
+Point,92,3013,Rionegro,Av Suba Cl 87,Suba,2,1,0,0,4,0,4.680501,-74.064704,2021-09-27,Barrios Unidos
+Point,93,9001,Molinos,Carrera 9A,Caracas,2,2,0,0,2,0,4.557059,-74.121834,2021-09-27,Rafael Uribe Uribe
+Point,94,5102,AV. Américas - AV. Boyacá,Av. Americas -Carrera 71,Americas,4,1,1,32,4,1,4.630113,-74.134225,2021-09-27,Kennedy
+Point,95,7504,Terreros - Hospital C.V,soacha,Soacha,3,1,0,0,4,0,4.588977,-74.19953,2021-09-27,
+Point,96,7505,Leon XIII,soacha,Soacha,2,1,0,0,4,0,4.592179,-74.193138,2021-09-27,
+Point,97,12003,Ricaurte - CL 13,calle 13 - carrera 28,Americas,3,2,0,0,3,0,4.613015,-74.09048,2021-09-27,Los Mártires
+Point,98,10010,San Bernardo,Kra 10- Cl1b  sur,Cr 7-10,2,2,0,0,4,0,4.59019,-74.084319,2021-09-27,Santa Fe
+Point,99,6000,Portal El Dorado,carrera 87,Calle 26,0,0,1,532,1,1,4.681604,-74.121395,2021-09-27,Fontibón
+Point,100,8001,Parque,Calle 55 Sur,Tunal,2,1,0,0,4,0,4.568336,-74.135418,2021-09-27,Tunjuelito
+Point,101,4001,Quirigua,Carrera 94,Calle 80,1,1,0,0,4,0,4.706744,-74.108726,2021-09-27,Engativá
+Point,102,9111,Calle 19,Calle 19 - Calle 17,Caracas,3,2,0,0,4,0,4.607861,-74.076858,2021-09-27,Los Mártires
+Point,103,9002,Consuelo,Carrera 11A - Carrera 10C,Caracas,2,1,0,0,4,0,4.560225,-74.123869,2021-09-27,Rafael Uribe Uribe
+Point,104,9000,Portal de Usme,Calle 65C Sur,Caracas,0,0,0,0,1,0,4.531715,-74.119391,2021-09-27,Usme
+Point,105,7003,Sevillana,Sevillana,NQS,2,1,0,0,4,0,4.595096,-74.147408,2021-09-27,Kennedy
+Point,106,3012,Suba - Calle 95,Av Suba Cl 97,Suba,2,1,0,0,4,0,4.684575,-74.063153,2021-09-27,Barrios Unidos
+Point,107,7503,San Mateo,soacha,Soacha,3,1,1,650,2,1,4.585983,-74.20546,2021-09-27,
+Point,108,9110,AV. Jiménez - Caracas,Calle 13 - Calle 11,Caracas,4,2,0,0,3,0,4.602874,-74.080428,2021-09-27,Santa Fe
+Point,109,9113,Calle 22,Calle 24 - Calle 22,Caracas,3,2,0,0,4,0,4.611695,-74.074684,2021-09-27,Los Mártires
+Point,110,6107,Ciudad Universitaria,carrera 34,Calle 26,2,2,0,0,4,0,4.63088,-74.083527,2021-09-27,Teusaquillo
+Point,111,12004,San Fason Carrera 22,Av. Americas -Carrera 22,Americas,2,2,0,0,4,0,4.609818,-74.086712,2021-09-27,Los Mártires
+Point,112,9116,AV. 39,Avenida 39 - Avenida Calle,Caracas,3,2,0,0,4,0,4.626897,-74.068691,2021-09-27,Santa Fe
+Point,113,7105,Movistar Arena,Kr 30 Cl 57,NQS,2,1,0,0,4,0,4.650039,-74.078346,2021-09-27,Teusaquillo
+Point,114,3011,Suba - Calle 100,Av Suba Cl 100,Suba,2,1,0,0,4,0,4.690398,-74.065618,2021-09-27,Suba
+Point,115,9109,Tercer Milenio,Calle 8 - Calle 6,Caracas,3,2,0,0,4,0,4.598127,-74.083838,2021-09-27,Los Mártires
+Point,116,5105,Pradera,Av. Americas -Carrera 64,Americas,4,1,1,32,4,1,4.628532,-74.118673,2021-09-27,Puente Aranda
+Point,117,9101,Quiroga,Calle 31 Sur - Calle 32 Su,Caracas,2,1,0,0,4,0,4.576796,-74.114377,2021-09-27,Rafael Uribe Uribe
+Point,118,14001,De La Sabana,Calle 13 - Carrera 16,Americas,2,2,0,0,4,0,4.605431,-74.081892,2021-09-27,Los Mártires
+Point,119,6100,AV. Rojas,Calle 26-Carrera 69 d,Calle 26,6,1,1,104,4,1,4.661952,-74.10876,2021-09-27,Engativá
+Point,120,9108,Hospital,Calle 4 - Calle 2,Caracas,2,1,0,0,4,0,4.595046,-74.08622,2021-09-27,Santa Fe
+Point,121,4102,AV. Boyacá,Transversal 69 B,Calle 80,1,1,0,0,4,0,4.693952,-74.087113,2021-09-27,Engativá
+Point,122,4103,Ferias,Transversal  67 Bis,Calle 80,1,1,0,0,4,0,4.6909,-74.084584,2021-09-27,Engativá
+Point,123,3004,Gratamira,Av Suba Cl 135,Suba,2,1,0,0,4,0,4.727337,-74.074726,2021-09-27,Suba
+Point,124,3006,Niza - Calle 127,Av Suba Cl 127,Suba,2,2,0,0,4,0,4.71193,-74.072282,2021-09-27,Suba
+Point,125,9003,Socorro,Carrera 16B - Carrera 14A,Caracas,2,2,0,0,4,0,4.564658,-74.125573,2021-09-27,Rafael Uribe Uribe
+Point,126,10002,AV. 1 Mayo,AV. 1? Mayo con Cra 7,Cr 7-10,3,2,0,0,4,0,4.576937,-74.093707,2021-09-27,San Cristobal
+Point,127,10005,Bicentenario,Kra 10 -Cl5,Cr 7-10,0,2,1,116,2,1,4.594021,-74.081836,2021-09-27,Santa Fe
+Point,128,5107,Américas - Carrera 53A,Amï¿½ricas - KR 53A,Americas,4,1,0,0,4,0,4.627886,-74.111581,2021-09-27,Puente Aranda
+Point,129,5101,Mandalay,av. Amï¿½ricas Carrera 73,Americas,4,1,0,0,4,0,4.630847,-74.1413,2021-09-27,Kennedy
+Point,130,10001,Country Sur,Kra 10- Cl28 sur,Cr 7-10,2,2,0,0,4,0,4.571414,-74.098631,2021-09-27,Rafael Uribe Uribe
+Point,131,7007,NQS - Calle 38A S,AutoSur - Kr 39A,NQS,2,1,0,0,4,0,4.593792,-74.123754,2021-09-27,Puente Aranda
+Point,132,8002,Biblioteca,Calle 48A Sur,Tunal,2,1,0,0,4,0,4.570302,-74.130388,2021-09-27,Tunjuelito
+Point,133,3003,21 Ángeles,Av Suba Cl 136,Suba,2,1,0,0,4,0,4.735434,-74.080854,2021-09-27,Suba
+Point,134,6109,Centro Memoria,Carrera 20,Calle 26,2,2,0,0,4,0,4.620466,-74.076313,2021-09-27,Teusaquillo
+Point,135,5103,Marsella,Av. Americas -Carrera 69C,Americas,6,1,1,32,4,1,4.629686,-74.130163,2021-09-27,Kennedy
+Point,136,12001,Carrera 43,Av. Americas -Carrera 43,Americas,2,2,0,0,4,0,4.622805,-74.101417,2021-09-27,Puente Aranda
+Point,137,10007,Las Nieves,Kra 10- Cl18,Cr 7-10,2,2,0,0,4,0,4.606061,-74.074319,2021-09-27,Santa Fe
+Point,138,10009,Museo Nacional,Kra 7- Cl32,Cr 7-10,0,1,0,0,4,0,4.615247,-74.069226,2021-09-27,Santa Fe
+Point,139,10008,San Diego,Kra 10- Cl23,Cr 7-10,2,2,0,0,4,0,4.610897,-74.071497,2021-09-27,Santa Fe
+Point,140,5005,Transversal 86,Av. Americas -tv. 86,Americas,4,1,0,0,4,0,4.6342,-74.152063,2021-09-27,Kennedy
+Point,141,3007,Humedal Córdoba,Av Suba Cl 119,Suba,2,1,0,0,4,0,4.706537,-74.07114,2021-09-27,Suba
+Point,142,6108,Concejo de Bogotá,Carrera38,Calle 26,2,1,0,0,4,0,4.625983,-74.08028,2021-09-27,Teusaquillo
+Point,143,6111,Universidades,carrera 4,Calle 26,2,2,0,0,3,0,4.604643,-74.06731,2021-09-27,Santa Fe
+Point,144,10000,Portal 20 de Julio,Kra 5 a Cl 33 Sur,Cr 7-10,0,0,1,216,1,1,4.565718,-74.097008,2021-09-27,San Cristobal
+Point,145,12000,Puente Aranda,calle 13 carrera 47,Americas,2,1,0,0,4,0,4.625669,-74.10464,2021-09-27,Puente Aranda
+Point,146,10006,San Victorino,Kra 10- Cl12,Cr 7-10,3,2,0,0,4,0,4.601018,-74.077406,2021-09-27,La Candelaria
+Point,147,10003,Ciudad Jardín,Kra 10- Cl12 sur,Cr 7-10,2,1,0,0,4,0,4.581532,-74.090338,2021-09-27,Antonio Nariño
+Point,148,10004,Policarpa,Kra 10- Cl3 sur,Cr 7-10,2,2,0,0,4,0,4.586257,-74.086921,2021-09-27,San Cristobal
+Point,149,7010,Bosa,soacha,Soacha,2,1,0,0,4,0,4.596879,-74.181225,2021-09-27,Ciudad Bolivar
